@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ai-tankesmedjan.onrender.com/'
 languageCode = 'sv-SE'
 title = 'AI tankesmedjan'
 theme = "forty"
