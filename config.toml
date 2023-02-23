@@ -1,0 +1,114 @@
+baseURL = 'http://example.org/'
+languageCode = 'sv-SE'
+title = 'AI tankesmedjan'
+theme = "forty"
+
+# Enter your tracking code to enable Google Analytics
+# googleAnalytics = ""
+
+# Enter your disqus shortname to enable comments
+disqusShortname = ""
+
+[params]
+
+  # Provide your metadata here.
+  name = "Per von Rosen"
+  description = "AI tankesmedjan"
+
+  # Link custom assets relative to /static
+  custom_css = []
+  custom_js  = []
+  favicon    = "favicon.ico"
+
+  # Just a custom image variable, please define it in .md files for content.
+  image = ""
+
+  # 404 error customization
+  [params.error404]
+    heading = "Page couldn't be found"
+    text = "Please visit [this page](/)"
+
+  # Navigation Section
+  # TODO: Remove params
+  [params.navigation]
+    title = "AI tankesmedjan"
+    subtitle = "- en framtidsvision -"
+    menu = "Menu"
+    # Optional logo as brand stored in img/
+    # logo = "logo.png"
+
+    [[params.navigation.links]]
+      name = "Home"
+      url = "#"
+
+  # Banner section
+  [params.banner]
+    # To change the background image on the homepage banner, replace 'banner.jpg' in
+    # the 'static/img' folder.
+    title = "AI tankesmedjan"
+    subtitle = "Där tar AI vid"
+    buttonText = "Starta"
+
+
+  # Tiles Section
+  [params.tiles]
+    enable = true
+    # Display your showcases here.
+
+    [[params.tiles.showcase]]
+      title = "AI tankesmedjan blog"
+      subtitle = "Bloggen"
+      image = ""
+      url = "blogs/intro/"
+
+    [[params.tiles.showcase]]
+      title = "AI tankesmedjan utvik"
+      subtitle = "Insikter, längre texter"
+      image = "catalog-small.jpg"
+      url = "posts/catalog"
+
+    [[params.tiles.showcase]]
+      title = "AI tankesmedjan"
+      subtitle = "Länkar till andra"
+      image = ""
+      url = "posts/links"
+
+    [[params.tiles.showcase]]
+      title = "AI tankesmedjan"
+      subtitle = "Nya arbetssätt"
+      image = ""
+      url = "posts/work"
+
+    [[params.tiles.showcase]]
+      title = "AI tankesmedjan"
+      subtitle = "AI-ops"
+      image = ""
+      url = "posts/aiops"
+
+  [params.blog]
+    # All blogs defined in their own files. You can find example blogs
+    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
+    # at the root of this Hugo site.
+    # For more informtion take a look at the README.
+    # To add more blogs just copy and paste the code.
+
+  # Footer section
+  [params.footer]
+    enable = true
+    copyright = "AI tankesmedjan"
+
+    # Uses font awesome icons
+    [[params.footer.social]]
+      icon = "fa-twitter"
+      url= "https://www.twitter.com/aitankesmedjan"
+      label = "Twitter"
+
+    [[params.footer.social]]
+      icon = "fa-github"
+      url= "https://www.github.com/aitankesmedjan"
+      label = "GitHub"
+
+    [[params.footer.social]]
+      icon = "fa-linkedin"
+      url= "https://www.linkedin.com/in/aitankesmedjan/"
+      label = "LinkedIn"
