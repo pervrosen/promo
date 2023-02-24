@@ -1,6 +1,6 @@
 baseURL = 'https://ai-tankesmedjan.onrender.com/'
 languageCode = 'sv-SE'
-title = 'AI tankesmedjan'
+title = 'Tankesmedjan AI-revolutionen'
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -12,8 +12,8 @@ disqusShortname = ""
 [params]
 
   # Provide your metadata here.
-  name = "Per von Rosen"
-  description = "AI tankesmedjan"
+  name = ""
+  description = "Tankesmedjan AI-revolutionen"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -31,11 +31,11 @@ disqusShortname = ""
   # Navigation Section
   # TODO: Remove params
   [params.navigation]
-    title = "AI tankesmedjan"
+    title = "Tankesmedjan AI-revolutionen"
     subtitle = "- en framtidsvision -"
     menu = "Menu"
     # Optional logo as brand stored in img/
-    # logo = "logo.png"
+    logo = "images/logo.jpeg"
 
     [[params.navigation.links]]
       name = "Home"
@@ -45,7 +45,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "AI tankesmedjan"
+    title = "Tankesmedjan AI-revolutionen"
     subtitle = "Där tar AI vid"
     buttonText = "Starta"
 
@@ -56,32 +56,32 @@ disqusShortname = ""
     # Display your showcases here.
 
     [[params.tiles.showcase]]
-      title = "AI tankesmedjan blog"
-      subtitle = "Bloggen"
+      title = "Blog"
+      subtitle = ""
       image = ""
       url = "blogs/intro/"
 
     [[params.tiles.showcase]]
-      title = "AI tankesmedjan utvik"
-      subtitle = "Insikter, längre texter"
+      subtitle = ""
+      title = "Insikter, längre texter och utvik"
       image = "catalog-small.jpg"
       url = "posts/catalog"
 
     [[params.tiles.showcase]]
-      title = "AI tankesmedjan"
-      subtitle = "Länkar till andra"
+      subtitle = ""
+      title = "Länkar till andra"
       image = ""
       url = "posts/links"
 
     [[params.tiles.showcase]]
-      title = "AI tankesmedjan"
-      subtitle = "Nya arbetssätt"
+      subtitle = ""
+      title = "Nya arbetssätt"
       image = ""
       url = "posts/work"
 
     [[params.tiles.showcase]]
-      title = "AI tankesmedjan"
-      subtitle = "AI-ops"
+      subtitle = ""
+      title = "AI-ops"
       image = ""
       url = "posts/aiops"
 
@@ -95,7 +95,7 @@ disqusShortname = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "AI tankesmedjan"
+    copyright = "Tankesmedjan AI-revolutionen"
 
     # Uses font awesome icons
     [[params.footer.social]]
