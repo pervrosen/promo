@@ -1,5 +1,5 @@
 ---
-title: "ArtikelGoogle"
+title: "AI en utmaning för Google"
 date: 2023-02-25T20:31:53+01:00
 draft: false
 ---
