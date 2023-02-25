@@ -3,6 +3,7 @@ title: "ArtikelGoogle"
 date: 2023-02-25T20:31:53+01:00
 draft: false
 ---
+# Kommer Googles affärsmodell överleva AI-revolutionen?
 
 Artificiell intelligens (AI) utgör en stor utmaning för Googles annonsaffär. Det beror på att AI-baserade sökmotorer och plattformar är mycket mer sofistikerade än klassiska sökmotorer, vilket gör att annonsplaceringen blir mer komplex.
 
