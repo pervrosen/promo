@@ -1,20 +1,53 @@
 ---
-title: "ArtikelGoogle"
+title: "AI Governance"
 date: 2023-02-25T20:31:53+01:00
-draft: true
+draft: false
 ---
 
-Artificiell intelligens (AI) utgör en stor utmaning för Googles annonsaffär. Det beror på att AI-baserade sökmotorer och plattformar är mycket mer sofistikerade än klassiska sökmotorer, vilket gör att annonsplaceringen blir mer komplex.
+Artificiell intelligens (AI) har blivit allt vanligare inom företagsvärlden och har visat sig ha stor potential för att förbättra verksamhetsresultaten. Men samtidigt med de fördelar som AI kan erbjuda, finns det också risker och utmaningar som företag måste ta hänsyn till när de använder denna teknologi. En av dessa utmaningar är att säkerställa att AI används på ett etiskt och ansvarsfullt sätt. För att göra det är det viktigt att företag sätter upp en governancestruktur för AI. I denna artikel kommer vi att diskutera vad som krävs för att etablera en sådan struktur.
 
-Traditionella sökmotorer som Google rankar sökresultaten baserat på faktorer som sökord, relevans och popularitet. Annonsplaceringen på sökresultatsidan är baserad på liknande kriterier och placeras ovanför eller bredvid organiska sökresultat. Men med AI-baserade sökmotorer och plattformar kan annonsplaceringen bli mer komplex, eftersom dessa plattformar använder sig av mycket mer avancerade algoritmer och analysmetoder.
+# Steg 1: Förstå de grundläggande principerna för AI-governance
 
-En av de största utmaningarna med AI-baserade sökmotorer och plattformar är att annonsörer måste ha en djupare förståelse för sökfrågor och användarnas intentioner. För att skapa relevanta annonser som engagerar användarna måste annonsörerna också ha en klar uppfattning om konsumenternas beteenden och preferenser. Detta kräver mer datainsamling och analys, och kan bli mycket mer kostsamt för annonsörerna.
+Innan företaget sätter upp en governancestruktur för AI är det viktigt att förstå de grundläggande principerna som styr användningen av denna teknologi. En av de viktigaste principerna är transparens, vilket innebär att företaget måste vara tydligt med hur AI används och vilken data som används för att träna algoritmerna. En annan viktig princip är rättvisa, som kräver att AI-algoritmer inte diskriminerar eller orättvist gynnar vissa grupper.
 
-En annan utmaning med AI-baserade sökmotorer och plattformar är att de kan använda sig av mer avancerade analysverktyg för att placera annonser på en mer exakt position på en sökresultatsida. Dessa algoritmer kan ta hänsyn till faktorer som användarens beteende, sökhistorik och annan personlig information för att välja den bästa annonsplaceringen.
+Referens: OECD. (2019). AI Principles. Hämtad från https://www.oecd.org/going-digital/ai/principles/
 
-Detta kan dock också leda till en ökad konkurrens bland annonsörerna, då det är svårare att få en bra placering på en sökresultatsida. Det kan också innebära att annonsörerna måste betala mer för att få en högre placering på en sökresultatsida.
+# Steg 2: Identifiera och utse en ansvarig person
 
-Sammanfattningsvis innebär AI-baserade sökmotorer och plattformar en stor utmaning för annonsörer, då de kräver mer datainsamling och analys, och kan leda till ökad konkurrens och högre annonskostnader. Men med rätt strategi och förståelse för de nya teknologierna kan annonsörer fortsätta att dra nytta av sökmotorannonsering även i en framtid med AI-baserade sökmotorer.
+Företaget bör identifiera och utse en ansvarig person som ska ha ansvaret för att övervaka användningen av AI inom organisationen. Denna person bör ha en hög grad av teknisk kunskap om AI och även ha en god förståelse för de etiska och moraliska frågor som kan uppstå.
 
+Referens: European Commission. (2019). Ethics guidelines for trustworthy AI. Hämtad från https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai
 
+# Steg 3: Upprätta en internkontrollstruktur för AI
 
+Företaget bör upprätta en internkontrollstruktur för AI för att säkerställa att de etiska riktlinjerna och policyn följs. Detta inkluderar att utse en ansvarig person eller grupp som övervakar AI-systemen och deras användning.
+
+Referens: Information Commissioner's Office. (2021). Guidance on AI and data protection. Hämtad från https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/ai-guidance/
+
+# Steg 4: Skapa en AI-policy
+
+Företaget bör skapa en AI-policy som klargör deras strategi för att använda AI på ett ansvarsfullt och etiskt sätt. Policyn bör innehålla riktlinjer för datakvalitet och integritet, hur man undviker diskriminering och hur man hanterar eventuella konflikter som kan uppstå.
+
+Referens: European Commission. (2020). White Paper on Artificial Intelligence - A European approach to excellence and trust. Hämtad från https://ec.europa.eu/info/publications/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en
+
+# Steg 5: Skapa en utbildnings- och medvetenhetsprogram
+
+Företaget bör skapa en utbildnings- och medvetenhetsprogram för att se till att alla anställda som arbetar med AI har en god förståelse för de etiska och moraliska frågor som kan uppstå. Programmet bör också inkludera utbildning om hur man använder AI på ett ansvarsfullt sätt och hur man upptäcker och rapporterar eventuella överträdelser.
+
+Referens: PwC. (2019). Responsible AI: A guide for business leaders. Hämtad från https://www.pwc.com/gx/en/issues/data-and-analytics/assets/pwc-responsible-ai.pdf
+
+# Steg 6: Säkerställa datakvalitet och integritet
+
+Företaget måste säkerställa datakvalitet och integritet för att se till att AI-algoritmerna tränas på korrekt och tillförlitlig data. Detta innebär att data måste vara noggrant valda och bearbetade för att undvika fördomar och diskriminering.
+
+Referens: The Alan Turing Institute. (2021). Governance frameworks for AI. Hämtad från https://www.turing.ac.uk/research/research-projects/governance-frameworks-ai
+
+# Steg 7: Uppdatera governancestruktur regelbundet
+
+Företaget bör uppdatera sin governancestruktur för AI regelbundet för att se till att den fortfarande är lämplig och effektiv. Denna uppdatering kan göras på basis av nya rön inom området AI och genom feedback från anställda och intressenter.
+
+Referens: Harvard Business Review. (2020). The key to responsible AI: Governance. Hämtad från https://hbr.org/2020/04/the-key-to-responsible-ai-governance
+
+# Slutsats
+
+Att sätta upp en governancestruktur för AI är avgörande för att säkerställa att företag använder denna teknologi på ett etiskt och ansvarsfullt sätt. Genom att följa de grundläggande principerna för AI-governance och genom att utveckla en policy, en internkontrollstruktur och utbildningsprogram kan företag minska riskerna och maximera fördelarna med AI. Det är också viktigt att se till att governancestrukturen regelbundet uppdateras för att reflektera nya rön och feedback från anställda och intressenter.
