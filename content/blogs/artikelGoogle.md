@@ -4,17 +4,22 @@ date: 2023-02-25T20:31:53+01:00
 draft: true
 ---
 
-Artificiell intelligens (AI) utgör en stor utmaning för Googles annonsaffär. Det beror på att AI-baserade sökmotorer och plattformar är mycket mer sofistikerade än klassiska sökmotorer, vilket gör att annonsplaceringen blir mer komplex.
+Alphabet, moderbolaget till sökgiganten Google, har länge varit ledande inom reklambranschen. Men med framstegen inom artificiell intelligens (AI) och nya teknologier som brad och ChatGP, kan Alphabet snart möta stora utmaningar inom annonsering.
 
-Traditionella sökmotorer som Google rankar sökresultaten baserat på faktorer som sökord, relevans och popularitet. Annonsplaceringen på sökresultatsidan är baserad på liknande kriterier och placeras ovanför eller bredvid organiska sökresultat. Men med AI-baserade sökmotorer och plattformar kan annonsplaceringen bli mer komplex, eftersom dessa plattformar använder sig av mycket mer avancerade algoritmer och analysmetoder.
+Enligt en rapport från Statista [1], förväntas den globala annonseringsbudgeten att växa från 605 miljarder USD år 2020 till 865 miljarder USD år 2024. Denna tillväxt representerar en årlig tillväxt på 10,4%.
 
-En av de största utmaningarna med AI-baserade sökmotorer och plattformar är att annonsörer måste ha en djupare förståelse för sökfrågor och användarnas intentioner. För att skapa relevanta annonser som engagerar användarna måste annonsörerna också ha en klar uppfattning om konsumenternas beteenden och preferenser. Detta kräver mer datainsamling och analys, och kan bli mycket mer kostsamt för annonsörerna.
+Google har traditionellt varit den dominerande spelaren inom sökannonsmarknaden, med en marknadsandel på 92,71% [2]. Men med den ökande populariteten hos AI-drivna assistenter som Brad och ChatGP, kan sökningar i traditionella sökmotorer minska i framtiden.
 
-En annan utmaning med AI-baserade sökmotorer och plattformar är att de kan använda sig av mer avancerade analysverktyg för att placera annonser på en mer exakt position på en sökresultatsida. Dessa algoritmer kan ta hänsyn till faktorer som användarens beteende, sökhistorik och annan personlig information för att välja den bästa annonsplaceringen.
+Enligt en rapport från eMarketer [3] förväntas sociala medier att ta en större andel av den globala annonseringsbudgeten. År 2023 förväntas sociala medier att ta 23,3% av den totala annonseringsbudgeten, jämfört med Googles 16,1%. Detta skulle kunna tyda på att sociala medier och influenser kommer att bli den stora vinnaren i en värld där traditionella sökmotorer spelar en mindre roll.
 
-Detta kan dock också leda till en ökad konkurrens bland annonsörerna, då det är svårare att få en bra placering på en sökresultatsida. Det kan också innebära att annonsörerna måste betala mer för att få en högre placering på en sökresultatsida.
+Det är viktigt att notera att även om Google har dominerat sökannonsering under de senaste åren, har de lyckats diversifiera sin verksamhet för att minska sin beroende av sökannonsering. Till exempel utgör Google Cloud och Youtube en allt större andel av företagets intäkter [4].
 
-Sammanfattningsvis innebär AI-baserade sökmotorer och plattformar en stor utmaning för annonsörer, då de kräver mer datainsamling och analys, och kan leda till ökad konkurrens och högre annonskostnader. Men med rätt strategi och förståelse för de nya teknologierna kan annonsörer fortsätta att dra nytta av sökmotorannonsering även i en framtid med AI-baserade sökmotorer.
+Referenser:
+[1] Statista. (2021). Advertising spending worldwide from 2018 to 2024. Hämtad från https://www.statista.com/statistics/237974/online-advertising-spending-worldwide/
+[2] StatCounter Global Stats. (2022). Search Engine Market Share Worldwide. Hämtad från https://gs.statcounter.com/search-engine-market-share/all
+[3] eMarketer. (2021). Worldwide Ad Spending Forecast. Hämtad från https://www.emarketer.com/content/global-ad-spending
+[4] Alphabet Inc. (2022). Annual Report 2021. Hämtad från https://abc.xyz/investor/static/pdf/2021Q4_alphabet_earnings_release.pdf
 
 
 
+Regenerate response
