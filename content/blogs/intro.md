@@ -14,6 +14,6 @@ Visit the [Hugo](https://gohugo.io) website!
 ```
 some python code
 ```
-
+[arbetsmarknaden](/blogs/arbetsmarknaden/)
 ---
 
