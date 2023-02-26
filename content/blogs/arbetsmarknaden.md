@@ -14,8 +14,12 @@ Sammanfattningsvis visar forskning på att AI kommer att ha en allt större inve
 
 Referenser:
 
-"The Economic Impact of AI" av Oxford Economics (2018)
-"Jobs Lost, Jobs Gained: What the Future of Work Will Mean for Jobs, Skills, and Wages" av McKinsey Global Institute (2017)
-"Artificial Intelligence: A Market Overview" av IDC (2021)
-"AI and Inflation: A Closer Look" av Bank of America Merrill Lynch (2019)
-"The Future of Employment: How Susceptible are Jobs to Computerisation?" av Carl Benedikt Frey och Michael A. Osborne (2017)
+1. "The Economic Impact of AI" av Oxford Economics (2018)
+
+2. "Jobs Lost, Jobs Gained: What the Future of Work Will Mean for Jobs, Skills, and Wages" av McKinsey Global Institute (2017)
+
+3. "Artificial Intelligence: A Market Overview" av IDC (2021)
+
+4. "AI and Inflation: A Closer Look" av Bank of America Merrill Lynch (2019)
+
+5. "The Future of Employment: How Susceptible are Jobs to Computerisation?" av Carl Benedikt Frey och Michael A. Osborne (2017)
