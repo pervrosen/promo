@@ -1,20 +1,23 @@
 ---
-title: "ArtikelGoogle"
+title: "Social Scoring, något som förändrar vårt samhälle i grunden"
 date: 2023-02-25T20:31:53+01:00
-draft: true
+draft: false
 ---
+# Hur tror du världen kommer förändras till följd av social scoring?
 
-Artificiell intelligens (AI) utgör en stor utmaning för Googles annonsaffär. Det beror på att AI-baserade sökmotorer och plattformar är mycket mer sofistikerade än klassiska sökmotorer, vilket gör att annonsplaceringen blir mer komplex.
+Kinas sociala kreditpoängsystem, som utvärderar individuellt beteende och aktiviteter för att bestämma sociala kreditpoäng, har blivit en av de mest kontroversiella innovationerna i Kina under det senaste decenniet. Systemet, som kan användas för att belöna eller straffa individer baserat på deras beteende, kan även påverka deras möjligheter till anställning, utbildning och resor.
 
-Traditionella sökmotorer som Google rankar sökresultaten baserat på faktorer som sökord, relevans och popularitet. Annonsplaceringen på sökresultatsidan är baserad på liknande kriterier och placeras ovanför eller bredvid organiska sökresultat. Men med AI-baserade sökmotorer och plattformar kan annonsplaceringen bli mer komplex, eftersom dessa plattformar använder sig av mycket mer avancerade algoritmer och analysmetoder.
+I en nyligen publicerad rapport av den australiska tankesmedjan ASPI (Australian Strategic Policy Institute) framgick det att Kinas sociala kreditpoängsystem är en del av en större vision om att skapa en "digital diktatur". Denna vision innefattar övervakning av medborgarnas beteenden och användning av AI för att kontrollera och hantera deras handlingar.
+Trots det sprids konseptet till ett flertal länder, och även företag. Ryssland är ett exempel på ett land som planerar att införa ett liknande poängsystem. Deras system kommer att övervaka individers beteende på nätet, inklusive deras sociala medier-aktivitet och interaktion med andra användare, för att bestämma deras "digitala poäng".
 
-En av de största utmaningarna med AI-baserade sökmotorer och plattformar är att annonsörer måste ha en djupare förståelse för sökfrågor och användarnas intentioner. För att skapa relevanta annonser som engagerar användarna måste annonsörerna också ha en klar uppfattning om konsumenternas beteenden och preferenser. Detta kräver mer datainsamling och analys, och kan bli mycket mer kostsamt för annonsörerna.
+Förutom Ryssland har även Saudiarabien och Förenade Arabemiraten börjat använda liknande system för att övervaka och bedöma sina medborgares beteende. Saudiarabiens system, som kallas "Qiwa", bedömer företag och företagare baserat på deras prestationer och efterlevnad av landets lagar och regler. Förenade Arabemiratens system, som heter "Emirates ID", bedömer medborgare utifrån deras beteende och aktiviteter, likt Kinas system.
 
-En annan utmaning med AI-baserade sökmotorer och plattformar är att de kan använda sig av mer avancerade analysverktyg för att placera annonser på en mer exakt position på en sökresultatsida. Dessa algoritmer kan ta hänsyn till faktorer som användarens beteende, sökhistorik och annan personlig information för att välja den bästa annonsplaceringen.
+Även teknikgiganter som Facebook och Google har sina egna poängsystem för att bedöma användares beteenden. Facebook har ett "trustworthiness score" som används för att bedöma användares tillförlitlighet, medan Google har ett "Quality Score" som används för att bedöma annonseringskvalitet.
+Det finns risker med att använda AI för att bedöma individer, oavsett om det är ett statligt system eller ett system som drivs av teknikföretag. Dessa system kan missbrukas för att kontrollera befolkningen och inskränka personlig frihet, vilket innebär att det är viktigt att ha etiska riktlinjer och säkerhetsåtgärder på plats för att skydda individens rättigheter.
 
-Detta kan dock också leda till en ökad konkurrens bland annonsörerna, då det är svårare att få en bra placering på en sökresultatsida. Det kan också innebära att annonsörerna måste betala mer för att få en högre placering på en sökresultatsida.
-
-Sammanfattningsvis innebär AI-baserade sökmotorer och plattformar en stor utmaning för annonsörer, då de kräver mer datainsamling och analys, och kan leda till ökad konkurrens och högre annonskostnader. Men med rätt strategi och förståelse för de nya teknologierna kan annonsörer fortsätta att dra nytta av sökmotorannonsering även i en framtid med AI-baserade sökmotorer.
-
-
-
+# Referenser:
+    • https://www.aspi.org.au/report/long-shadow-chinas-social-credit-system
+    • https://www.wired.com/story/what-is-china-social-credit-score-how-it-works/
+    • https://www.businessinsider.com/russia-to-launch-rating-system-for-social-media-users-2019-7
+    • https://www.bbc.com/news/world-middle-east-49595164
+    • https://www.technologyreview.com/2019/09/17/238900/saudi-arabia-is-building-a-robot-utopia-as-the-kingdom-leans-on-automation/
