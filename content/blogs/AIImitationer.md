@@ -1,6 +1,7 @@
 ---
-title: "Användning av AI-imitationer i musikproduktion för ekonomisk vinning och dess utmaningar"
+title: "Användning av AI-imitationer i musikproduktion"
 date: 2023-02-25T20:31:53+01:00
+image: pic02.jpeg
 draft: false
 ---
 

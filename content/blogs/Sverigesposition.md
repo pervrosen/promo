@@ -1,6 +1,7 @@
 ---
 title: "Sveriges position"
 date: 2023-02-25T20:31:53+01:00
+image: pic11.avif
 draft: false
 ---
 

@@ -35,7 +35,7 @@ disqusShortname = ""
     subtitle = "- en framtidsvision -"
     menu = "Menu"
     # Optional logo as brand stored in img/
-    logo = "images/logo.jpeg"
+    logo = "logo.jpeg"
 
     [[params.navigation.links]]
       name = "Home"
@@ -59,7 +59,7 @@ disqusShortname = ""
       title = "Blog"
       subtitle = ""
       image = ""
-      url = "blogs/intro/"
+      url = "blogs/"
 
     [[params.tiles.showcase]]
       subtitle = ""
@@ -91,7 +91,7 @@ disqusShortname = ""
     # at the root of this Hugo site.
     # For more informtion take a look at the README.
     # To add more blogs just copy and paste the code.
-
+  
   # Footer section
   [params.footer]
     enable = true

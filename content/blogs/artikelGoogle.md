@@ -2,6 +2,7 @@
 title: "ArtikelGoogle"
 date: 2023-02-25T20:31:53+01:00
 draft: true
+image: pic04.jpeg
 ---
 
 Alphabet, moderbolaget till sökgiganten Google, har länge varit ledande inom reklambranschen. Men med framstegen inom artificiell intelligens (AI) och nya teknologier som brad och ChatGP, kan Alphabet snart möta stora utmaningar inom annonsering.

@@ -1,6 +1,7 @@
 ---
 title: "Falsk AI-försäljning – hur man undviker bedrägerier"
 date: 2023-02-25T20:31:53+01:00
+image: pic01.png
 draft: false
 ---
 

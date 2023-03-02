@@ -1,6 +1,7 @@
 ---
 title: "Fake NEWS!"
 date: 2023-02-25T20:31:53+01:00
+image: pic06.webp
 draft: false
 ---
 

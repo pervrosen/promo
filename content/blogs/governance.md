@@ -2,6 +2,7 @@
 title: "AI Governance"
 date: 2023-02-25T20:31:53+01:00
 draft: false
+image: pic07.jpeg
 ---
 
 Artificiell intelligens (AI) har blivit allt vanligare inom företagsvärlden och har visat sig ha stor potential för att förbättra verksamhetsresultaten. Men samtidigt med de fördelar som AI kan erbjuda, finns det också risker och utmaningar som företag måste ta hänsyn till när de använder denna teknologi. En av dessa utmaningar är att säkerställa att AI används på ett etiskt och ansvarsfullt sätt. För att göra det är det viktigt att företag sätter upp en governancestruktur för AI. I denna artikel kommer vi att diskutera vad som krävs för att etablera en sådan struktur.
