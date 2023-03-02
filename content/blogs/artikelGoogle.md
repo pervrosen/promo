@@ -15,7 +15,7 @@ Enligt en rapport från eMarketer [3] förväntas sociala medier att ta en stör
 
 Det är viktigt att notera att även om Google har dominerat sökannonsering under de senaste åren, har de lyckats diversifiera sin verksamhet för att minska sin beroende av sökannonsering. Till exempel utgör Google Cloud och Youtube en allt större andel av företagets intäkter [4].
 
-Referenser:
+### Referenser:
 [1] Statista. (2021). Advertising spending worldwide from 2018 to 2024. Hämtad från https://www.statista.com/statistics/237974/online-advertising-spending-worldwide/
 [2] StatCounter Global Stats. (2022). Search Engine Market Share Worldwide. Hämtad från https://gs.statcounter.com/search-engine-market-share/all
 [3] eMarketer. (2021). Worldwide Ad Spending Forecast. Hämtad från https://www.emarketer.com/content/global-ad-spending

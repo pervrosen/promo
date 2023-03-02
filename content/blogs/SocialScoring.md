@@ -4,7 +4,7 @@ date: 2023-02-25T20:31:53+01:00
 draft: false
 image: pic10.jpeg
 ---
-# Hur tror du världen kommer förändras till följd av social scoring?
+## Hur tror du världen kommer förändras till följd av social scoring?
 
 Kinas sociala kreditpoängsystem, som utvärderar individuellt beteende och aktiviteter för att bestämma sociala kreditpoäng, har blivit en av de mest kontroversiella innovationerna i Kina under det senaste decenniet. Systemet, som kan användas för att belöna eller straffa individer baserat på deras beteende, kan även påverka deras möjligheter till anställning, utbildning och resor.
 
@@ -16,7 +16,7 @@ Förutom Ryssland har även Saudiarabien och Förenade Arabemiraten börjat anv�
 Även teknikgiganter som Facebook och Google har sina egna poängsystem för att bedöma användares beteenden. Facebook har ett "trustworthiness score" som används för att bedöma användares tillförlitlighet, medan Google har ett "Quality Score" som används för att bedöma annonseringskvalitet.
 Det finns risker med att använda AI för att bedöma individer, oavsett om det är ett statligt system eller ett system som drivs av teknikföretag. Dessa system kan missbrukas för att kontrollera befolkningen och inskränka personlig frihet, vilket innebär att det är viktigt att ha etiska riktlinjer och säkerhetsåtgärder på plats för att skydda individens rättigheter.
 
-# Referenser:
+## Referenser:
     • https://www.aspi.org.au/report/long-shadow-chinas-social-credit-system
     • https://www.wired.com/story/what-is-china-social-credit-score-how-it-works/
     • https://www.businessinsider.com/russia-to-launch-rating-system-for-social-media-users-2019-7

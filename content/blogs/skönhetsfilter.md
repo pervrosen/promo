@@ -5,7 +5,7 @@ draft: false
 image: pic09.jpeg
 ---
 
-# Skönhetfilter och dess psykologiska effekter
+## Skönhetfilter och dess psykologiska effekter
 
 I takt med att sociala medier har blivit alltmer populära har användningen av skönhetfilter ökat. Skönhetfilter är en typ av bildredigeringsverktyg som används för att manipulera och förbättra utseendet på selfies och andra bilder. Filterna kan användas för att jämna ut hudtonen, minska eller förstora funktioner som ögon och näsa och ändra ansiktsformen.
 
@@ -19,7 +19,7 @@ Flera sociala medieplattformar har nu börjat ta steg för att minska användnin
 
 Det är viktigt att politiker tar ansvar för att skydda allmänhetens hälsa och välbefinnande genom att övervaka användningen av skönhetfilter och vidta åtgärder för att minska deras negativa effekter. Vi behöver också mer forskning om skönhetfilter och deras påverkan på vår självbild och mentala hälsa.
 
-# Referenser:
+### Referenser:
 
 American Academy of Facial Plastic and Reconstructive Surgery (AAFPRS). (2019). The AAFPRS Reports That 55% of Plastic Surgeons Used Social Media for Practice Promotion in 2018.
 Bulik, C. M., et al. (2019). Instagram use is linked to increased symptoms of orthorexia nervosa. Eating and Weight Disorders - Studies on Anorexia, Bulimia and Obesity.

@@ -13,7 +13,7 @@ Enligt en studie från Frey och Osborne vid Universitetet i Oxford kommer ungef�
 
 Sammanfattningsvis visar forskning på att AI kommer att ha en allt större inverkan på arbetsmarknaden och ekonomin de närmaste åren. Det är viktigt att både arbetskraften och företagen förbereder sig för dessa förändringar och anpassar sig till den nya tekniken för att dra nytta av dess fördelar.
 
-Referenser:
+### Referenser:
 
 [1]: "The Economic Impact of AI" av Oxford Economics (2018)
 

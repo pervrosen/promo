@@ -31,7 +31,7 @@ Det är viktigt att notera att faktakontroll i AI-chatbotar inte är en heltäck
 
 Sammanfattningsvis är fake news och ryktesspridning en stor utmaning för AI-chatbotar. Faktakontroll är en viktig faktor i att bekämpa desinformation, men det är en komplex process som kan vara svår att genomföra helt och hållet. Genom att implementera tekniker som kan upptäcka falska påståenden och rykten kan AI-chatbotar bidra till att bekämpa desinformation och främja tillförlitliga källor för information.
 
-# Referenser:
+### Referenser:
 
 Allcott, H., & Gentzkow, M. (2017). Social media and fake news in the 2016 election. Journal of Economic Perspectives, 31(2), 211-236.
 Lazer, D. M., Baum, M. A., Benkler, Y., Berinsky, A. J., Greenhill, K. M., Menczer, F., ... & Schudson, M. (2018). The science of fake news. Science, 359(6380), 1094-1096.

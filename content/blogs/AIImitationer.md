@@ -5,7 +5,7 @@ image: pic02.jpeg
 draft: false
 ---
 
-# Användning av AI-imitationer i musikproduktion för ekonomisk vinning och dess utmaningar.
+## Användning av AI-imitationer i musikproduktion för ekonomisk vinning och dess utmaningar.
 
 Artikelns syfte är att diskutera användningen av AI-imitationer i musikproduktion och dess möjliga positiva och negativa konsekvenser. Det påpekas att AI-teknologi kan användas för att skapa realistiska imitationer av kända musikers röster, vilket kan användas för att skapa nya låtar eller remixar och därmed generera stora ekonomiska vinster. Samtidigt kan denna teknologi underminera musikernas kreativa integritet och skapa konkurrens på marknaden som kan skada musikernas möjligheter att tjäna pengar på sin musik.
 
@@ -19,7 +19,7 @@ För att undvika dessa negativa konsekvenser föreslås det att politiker och br
 
 I sammanhanget påpekas också vikten av att politiker och experter samarbetar för att skapa en balans mellan att skydda rättigheterna för personer och möjliggöra fortsatt utveckling och användning av AI-teknologi, särskilt med tanke på den snabba utvecklingen inom området och behovet.
 
-# Referenser
+### Referenser
 
 Jansson, A., & Zhang, Y. (2019). Speech synthesis from neural decoding of spoken sentences. Nature Communications, 10(1), 1-12.
 Wang, W., Zhang, J., & Zhang, Y. (2020). The Risks of AI-generated Fake Voices in Political Manipulation. Science Advances, 6(34), eabb1120.
