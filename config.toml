@@ -65,25 +65,31 @@ disqusShortname = ""
       subtitle = ""
       title = "Insikter, längre texter och utvik"
       image = "catalog-small.jpg"
-      url = "posts/catalog"
+      url = "insikt"
 
     [[params.tiles.showcase]]
       subtitle = ""
       title = "Länkar till andra"
       image = ""
-      url = "posts/links"
+      url = "links"
 
     [[params.tiles.showcase]]
       subtitle = ""
       title = "Nya arbetssätt"
       image = ""
-      url = "posts/work"
+      url = "arbetssatt"
 
     [[params.tiles.showcase]]
       subtitle = ""
-      title = "AI-ops"
+      title = "AI-Ops och ML-Ops"
       image = ""
-      url = "posts/aiops"
+      url = "aiops"
+
+    [[params.tiles.showcase]]
+      subtitle = ""
+      title = "Vilka är vi?"
+      image = ""
+      url = "about"
 
   [params.blog]
     # All blogs defined in their own files. You can find example blogs
