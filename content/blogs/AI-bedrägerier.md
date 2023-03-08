@@ -3,6 +3,7 @@ title: "Falsk AI-försäljning – hur man undviker bedrägerier"
 date: 2023-02-25T20:31:53+01:00
 image: pic01.png
 draft: false
+publishDate: 2023-03-13
 ---
 
 Artificiell intelligens (AI) är en teknik som har potential att revolutionera företagsverksamhet och samhället i stort. Men precis som med alla teknologiska framsteg finns det risker och fallgropar som man måste vara medveten om. En av dessa risker är falsk AI-försäljning, där företag överdriver AI:s förmågor och använder hype för att sälja produkter och tjänster som inte lever upp till förväntningarna. I denna artikel diskuterar vi vad falsk AI-försäljning är, varför det är en risk, och hur man kan undvika att bli lurad.
