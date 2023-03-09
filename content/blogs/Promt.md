@@ -35,7 +35,7 @@ Generellt sett, och på en hög nivå, kan en prompt ha något av följande:
 
 För att få ett resultat måste antingen 1 eller 2 finnas. Allt annat är valfritt. Låt oss se några exempel (alla använder ChatGPT).
 
-Instruktioner + FrågaPermalänk
+Instruktioner + Fråga
 Utöver att ställa en enkel fråga, kanske nästa nivå av sofistikering i en prompt är att inkludera några instruktioner om hur modellen ska svara på frågan. Här ber jag om råd om hur man skriver en högskoleuppsats, men inkluderar även instruktioner om de olika aspekterna jag är intresserad av att höra om i svaret.
 
 "Hur ska jag skriva min antagningsuppsats? Ge mig förslag på de olika avsnitten jag bör ta med, vilken ton jag ska använda och vilka uttryck jag bör undvika.”
