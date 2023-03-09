@@ -26,10 +26,10 @@ För resten av det här dokumentet, och för nu, kommer vi att fokusera på det 
 
 Generellt sett, och på en hög nivå, kan en prompt ha något av följande:
 
-Instruktioner
-Fråga
-Indata
-Exempel
+* Instruktioner
+* Fråga
+* Indata
+* Exempel
 
 ### 3. Grundläggande snabbexempel
 
