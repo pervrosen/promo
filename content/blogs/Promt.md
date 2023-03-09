@@ -75,4 +75,4 @@ Att generera uppmaningar i någon skala kräver ett programmatiskt tillvägagån
 
 Slutligen är snabb ingenjörskonst, som alla ingenjörsdiscipliner, iterativ och kräver en del utforskning för att hitta rätt lösning. Även om detta inte är något jag har hört talas om, kommer snabb ingenjörskonst att kräva många av samma tekniska processer som mjukvaruteknik (t.ex. versionskontroll och regressionstestning).
 
-För fler exempel läs förljande bloginlägg som är basen för detta inlägg. -> https://amatriain.net/blog/PromptEngineering
+För fler exempel läs följande bloginlägg som är basen för detta inlägg. -> https://amatriain.net/blog/PromptEngineering
