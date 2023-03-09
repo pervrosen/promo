@@ -6,7 +6,7 @@ draft: false
 publishDate: 2023-03-09
 ---
 
-## Promt engineering
+## Prompt engineering
 
 ref: https://amatriain.net/blog/PromptEngineering
 
