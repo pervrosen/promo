@@ -4,6 +4,9 @@ Här kommer vi länka till andras viktiga bidrag i diskussionen.
 
 ## Direktlänkar
 
+**Extensive Prompt Engineering collection
+[Datafit.ai](https://datafit.ai/)
+
 **ChatGPT connects to the internet**
 
 As the ChatGPT artificial intelligence is currently limited to information before 2021, this extension allows it to access the latest information on the internet.
