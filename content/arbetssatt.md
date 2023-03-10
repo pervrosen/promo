@@ -12,7 +12,7 @@ Du skriver ett brev genom att rada upp de viktiga punkter du vill få belysta. A
 
 AI:n monitorerar, grupperar och eskalerar meddelanden som tex email som du väntar på för att kunna slutföra aktiviteter. AI:n kan även instrueras att automatisera reaktioner, sk scenarion. Detta är likt IoT scenarion, men med intelligens.
 
-#### AI:n som din virtuella HR
+#### AI:n som din virtuella säljare eller kontaktperson
 
 AI:n kan skapa virtuella avatarer som kan representera företaget mot kunder som når företaget via elektroniska kanaler. 
 
