@@ -3,6 +3,7 @@ title: "Arbetsmarknadens påverkan av AI-revolutionen"
 date: 2023-02-25T20:31:53+01:00
 draft: false
 image: pic03.jpeg
+publishDate: 2023-03-21
 ---
 
 Artificiell intelligens (AI) har blivit alltmer integrerad i vårt samhälle och det finns en allmän oro för hur tekniken kommer att påverka arbetsmarknaden. Enligt en studie från Oxford Economics förutspås AI leda till en ökning av den globala BNP:n på 14,5 biljoner dollar år 2030, vilket motsvarar en ökning av BNP på 1,2% per år [1]. Samtidigt kan AI leda till ökad ojämlikhet på arbetsmarknaden, där de med högre utbildning och specialiserade färdigheter gynnas medan de med enklare arbeten och mindre utbildning påverkas negativt, enligt en rapport från McKinsey Global Institute [2].
