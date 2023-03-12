@@ -3,6 +3,7 @@ title: "Social Scoring, något som förändrar vårt samhälle i grunden"
 date: 2023-02-25T20:31:53+01:00
 draft: false
 image: pic10.jpeg
+publishDate: 2023-03-19
 ---
 ## Hur tror du världen kommer förändras till följd av social scoring?
 
