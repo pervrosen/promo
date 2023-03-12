@@ -3,6 +3,7 @@ title: "Sveriges position"
 date: 2023-02-25T20:31:53+01:00
 image: pic11.avif
 draft: false
+publishDate: 2023-03-19
 ---
 
 Artificiell intelligens (AI) är en teknologi som växer snabbt över hela världen. Det har potential att revolutionera alla branscher från hälsa till industri och transport. Sverige är en av de länder som har tagit en ledande roll inom AI-industrin, både när det gäller forskning och tillämpning av teknologin.
