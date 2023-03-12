@@ -3,7 +3,7 @@ title: "En ny vetenskap har skapats - Prompt engineering"
 date: 2023-03-09T20:31:53+01:00
 image: pic12.jpeg
 draft: false
-publishDate: 2023-03-09
+publishDate: 2023-03-12
 ---
 
 ## Prompt engineering
