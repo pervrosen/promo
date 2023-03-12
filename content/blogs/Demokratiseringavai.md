@@ -3,6 +3,7 @@ title: "Demokratisering av AI-tekniken - rättvisa och jämlikhet"
 date: 2023-02-25T20:31:53+01:00
 image: pic05.jpeg
 draft: false
+publishDate: 2023-03-15
 ---
 
 Artificiell intelligens (AI) har potentialen att förändra världen genom att lösa några av de största utmaningarna som samhället står inför. Det kan hjälpa till att lösa sjukdomar, minska klimatförändringarna, förbättra tillgängligheten till resurser och förbättra livskvaliteten för miljarder människor runt om i världen. Men samtidigt är AI-tekniken inte tillgänglig för alla. Det är en teknik som domineras av några få stora företag och länder, vilket skapar en ojämlikhet i tillgången till dess fördelar. För att säkerställa att alla kan dra nytta av AI-tekniken måste den demokratiseras.
