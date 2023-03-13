@@ -1,9 +1,9 @@
 ---
 title: "Social Scoring, något som förändrar vårt samhälle i grunden"
 date: 2023-02-25T20:31:53+01:00
-draft: false
+draft: true
 image: pic10.jpeg
-publishDate: 2023-03-18
+publishDate: 2023-03-13
 ---
 ## Hur tror du världen kommer förändras till följd av social scoring?
 
@@ -18,12 +18,18 @@ Förutom Ryssland har även Saudiarabien och Förenade Arabemiraten börjat anv�
 Även teknikgiganter som Facebook och Google har sina egna poängsystem för att bedöma användares beteenden. Facebook har ett "trustworthiness score" som används för att bedöma användares tillförlitlighet, medan Google har ett "Quality Score" som används för att bedöma annonseringskvalitet.
 Det finns risker med att använda AI för att bedöma individer, oavsett om det är ett statligt system eller ett system som drivs av teknikföretag. Dessa system kan missbrukas för att kontrollera befolkningen och inskränka personlig frihet, vilket innebär att det är viktigt att ha etiska riktlinjer och säkerhetsåtgärder på plats för att skydda individens rättigheter.
 
+Ett stort problem med social scoring-system är att de kan leda till negativa samhällseffekter och riskera att diskriminera. Eftersom dessa system bedömer individer baserat på deras beteenden och aktiviteter, finns det en risk för att vissa grupper kan bli felaktigt bedömda eller diskriminerade. Till exempel kan personer som har ett politiskt åsikt som inte är populärt i samhället få lägre poäng och utsättas för repressalier. Dessutom kan det finnas andra faktorer som påverkar beteendet som en person inte kan kontrollera, såsom socioekonomisk bakgrund, hälsa eller utbildningsnivå, vilket kan leda till orättvisa bedömningar och konsekvenser.
+
+En annan risk med social scoring-system är att de kan skapa en kultur av misstro och misstänksamhet. När individer vet att deras beteenden bedöms och poängsätts, kan de bli rädda för att agera fritt och uttrycka sina åsikter av rädsla för negativa konsekvenser. Detta kan påverka deras möjligheter till anställning, utbildning och resor, vilket kan leda till en begränsning av deras personliga frihet och begränsa deras möjligheter till personlig utveckling.
+
+Därför är det viktigt att ha etiska riktlinjer och säkerhetsåtgärder på plats för att skydda individens rättigheter när man använder social scoring-system. Det är också viktigt att övervaka användningen av dessa system för att se till att de inte missbrukas för att inskränka individens frihet och rättigheter.
+
 ## Referenser:
-    • "China’s Social Credit System: A Mark of Progress or a Threat to Privacy?" by Josephine Wolff, published in The New Yorker in 2019. The article provides an in-depth analysis of the social credit system and its impact on individuals and society.
-    • "Russia's Digital Credit System: A New Era of Surveillance?" by Emma Loosley, published in the Journal of Eurasian Affairs in 2019. The article discusses the development and implications of Russia's digital credit system.
-    • "Russia to Introduce Digital Credit Scoring System" by Ivan Nechepurenko, published in The New York Times in 2018. The article provides an overview of Russia's plans to introduce a digital credit scoring system.
-    • "Saudi Arabia's New 'Economic Revolution' is Built on Sand" by Rami Khouri, published in The Guardian in 2020. The article discusses the implications of Saudi Arabia's economic reforms, including the introduction of the Qiwa system.
-    • "UAE's Emirates ID system: the privacy concerns" by Samantha Lock, published in Arabian Business in 2018. The article discusses the privacy concerns surrounding the Emirates ID system and its impact on individuals.
-    • https://www.wired.com/story/china-social-credit-score-system/
+    • https://www.aspi.org.au/report/engineering-global-consent-chinese-communist-partys-data-driven-power-expansion
+    • https://www.washingtonpost.com/technology/2018/08/21/facebook-is-rating-trustworthiness-its-users-scale-zero-one/
+    • China’s Social Credit System: A Mark of Progress or a Threat to Privacy?" by Josephine Wolff, published in The New Yorker in 2019. 
+    • Russia's Digital Credit System: A New Era of Surveillance?" by Emma Loosley, published in the Journal of Eurasian Affairs in 2019. 
+    • Saudi Arabia's New 'Economic Revolution' is Built on Sand" by Rami Khouri, published in The Guardian in 2020. 
+    • UAE's Emirates ID system: the privacy concerns" by Samantha Lock, published in Arabian Business in 2018. 
     • https://www.themoscowtimes.com/2020/11/25/moscow-plans-expanded-social-credit-style-tracking-system-open-media-a72144
-    • https://www.bbc.com/news/world-middle-east-49595164](https://english.alarabiya.net/business/economy/2013/09/05/Saudization-program-not-helping-Saudi-Arabia-s-economic-competitiveness-)
+   
