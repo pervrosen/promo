@@ -3,7 +3,7 @@ title: "En intressant vändning"
 date: 2023-03-09T20:31:53+01:00
 image: pic13.avif
 draft: false
-publishDate: 2023-03-20
+publishDate: 2023-03-13
 ---
 
 ## En intressant vänding
