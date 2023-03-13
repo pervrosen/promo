@@ -18,8 +18,11 @@ Det är viktigt att notera att även om Google har dominerat sökannonsering und
 
 ### Referenser:
 [1] Statista. (2021). Advertising spending worldwide from 2018 to 2024. Hämtad från https://www.statista.com/statistics/237974/online-advertising-spending-worldwide/
+
 [2] StatCounter Global Stats. (2022). Search Engine Market Share Worldwide. Hämtad från https://gs.statcounter.com/search-engine-market-share/all
+
 [3] eMarketer. (2021). Worldwide Ad Spending Forecast. Hämtad från https://www.emarketer.com/content/global-ad-spending
+
 [4] Alphabet Inc. (2022). Annual Report 2021. Hämtad från https://abc.xyz/investor/static/pdf/2021Q4_alphabet_earnings_release.pdf
 
 
