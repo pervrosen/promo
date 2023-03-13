@@ -26,4 +26,4 @@ Det finns risker med att använda AI för att bedöma individer, oavsett om det 
     • "UAE's Emirates ID system: the privacy concerns" by Samantha Lock, published in Arabian Business in 2018. The article discusses the privacy concerns surrounding the Emirates ID system and its impact on individuals.
     • https://www.wired.com/story/china-social-credit-score-system/
     • https://www.themoscowtimes.com/2020/11/25/moscow-plans-expanded-social-credit-style-tracking-system-open-media-a72144
-    • [https://www.bbc.com/news/world-middle-east-49595164](https://english.alarabiya.net/business/economy/2013/09/05/Saudization-program-not-helping-Saudi-Arabia-s-economic-competitiveness-)
+    • https://www.bbc.com/news/world-middle-east-49595164](https://english.alarabiya.net/business/economy/2013/09/05/Saudization-program-not-helping-Saudi-Arabia-s-economic-competitiveness-)
