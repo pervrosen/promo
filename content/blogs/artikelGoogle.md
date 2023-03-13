@@ -12,7 +12,7 @@ Enligt en rapport från Statista [1], förväntas den globala annonseringsbudget
 
 Google har traditionellt varit den dominerande spelaren inom sökannonsmarknaden, med en marknadsandel på 93.37% [2]. Men med den ökande populariteten hos AI-drivna assistenter som Brad och ChatGP, kan sökningar i traditionella sökmotorer minska i framtiden.
 
-Enligt en rapport från eMarketer [3] förväntas sociala medier att ta en större andel av den globala annonseringsbud93.37%geten. År 2023 förväntas sociala medier att ta 23,3% av den totala annonseringsbudgeten, jämfört med Googles 16,1%. Detta skulle kunna tyda på att sociala medier och influenser kommer att bli den stora vinnaren i en värld där traditionella sökmotorer spelar en mindre roll.
+Enligt en rapport från eMarketer [3] förväntas sociala medier att ta en större andel av den globala annonseringsbudgeten. År 2023 förväntas sociala medier att ta 23,3% av den totala annonseringsbudgeten, jämfört med Googles 16,1%. Detta skulle kunna tyda på att sociala medier och influenser kommer att bli den stora vinnaren i en värld där traditionella sökmotorer spelar en mindre roll.
 
 Det är viktigt att notera att även om Google har dominerat sökannonsering under de senaste åren, har de lyckats diversifiera sin verksamhet för att minska sin beroende av sökannonsering. Till exempel utgör Google Cloud och Youtube en allt större andel av företagets intäkter [4].
 
