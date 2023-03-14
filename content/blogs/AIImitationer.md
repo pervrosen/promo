@@ -2,7 +2,7 @@
 title: "Användning av AI-imitationer i musikproduktion"
 date: 2023-02-25T20:31:53+01:00
 image: pic02.jpeg
-draft: false
+draft: true
 publishDate: 2023-03-14
 ---
 
