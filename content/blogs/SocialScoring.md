@@ -1,15 +1,13 @@
 ---
 title: "Social Scoring, något som förändrar vårt samhälle i grunden"
 date: 2023-02-25T20:31:53+01:00
-draft: true
+draft: false
 image: pic10.jpeg
-publishDate: 2023-03-13
+publishDate: 2023-03-16
 ---
 ## Hur tror du världen kommer förändras till följd av social scoring?
 
 Kinas sociala kreditpoängsystem, som utvärderar individuellt beteende och aktiviteter för att bestämma sociala kreditpoäng, har blivit en av de mest kontroversiella innovationerna i Kina under det senaste decenniet. Systemet, som kan användas för att belöna eller straffa individer baserat på deras beteende, kan även påverka deras möjligheter till anställning, utbildning och resor.
-
-I en publicerad rapport av den australiska tankesmedjan ASPI (Australian Strategic Policy Institute) framgick det att Kinas sociala kreditpoängsystem är en del av en större vision om att skapa en "digital diktatur". Denna vision innefattar övervakning av medborgarnas beteenden och användning av AI för att kontrollera och hantera deras handlingar.
 
 Trots det sprids konseptet till ett flertal länder, och även företag. Ryssland är ett exempel på ett land som planerar att införa ett liknande poängsystem. Deras system kommer att övervaka individers beteende på nätet, inklusive deras sociala medier-aktivitet och interaktion med andra användare, för att bestämma deras "digitala poäng".
 
