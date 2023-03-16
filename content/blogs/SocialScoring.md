@@ -9,7 +9,7 @@ publishDate: 2023-03-16
 
 Kinas sociala kreditpoängsystem, som utvärderar individuellt beteende och aktiviteter för att bestämma sociala kreditpoäng, har blivit en av de mest kontroversiella innovationerna i Kina under det senaste decenniet. Systemet, som kan användas för att belöna eller straffa individer baserat på deras beteende, kan även påverka deras möjligheter till anställning, utbildning och resor.
 
-Trots det sprids konseptet till ett flertal länder, och även företag. Ryssland är ett exempel på ett land som planerar att införa ett liknande poängsystem. Deras system kommer att övervaka individers beteende på nätet, inklusive deras sociala medier-aktivitet och interaktion med andra användare, för att bestämma deras "digitala poäng".
+Trots det sprids konceptet till ett flertal länder, och även företag. Ryssland är ett exempel på ett land som planerar att införa ett liknande poängsystem. Deras system kommer att övervaka individers beteende på nätet, inklusive deras sociala medier-aktivitet och interaktion med andra användare, för att bestämma deras "digitala poäng".
 
 Förutom Ryssland har även Saudiarabien och Förenade Arabemiraten börjat använda liknande system för att övervaka och bedöma sina medborgares beteende. Saudiarabiens system, som kallas "Qiwa", bedömer företag och företagare baserat på deras prestationer och efterlevnad av landets lagar och regler. Förenade Arabemiratens system, som heter "Emirates ID", bedömer medborgare utifrån deras beteende och aktiviteter, likt Kinas system.
 
