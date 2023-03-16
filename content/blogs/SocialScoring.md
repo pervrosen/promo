@@ -1,10 +1,11 @@
 ---
 title: "Social Scoring, något som förändrar vårt samhälle i grunden"
 date: 2023-02-25T20:31:53+01:00
-draft: false
 image: pic10.jpeg
+draft: false
 publishDate: 2023-03-15
 ---
+
 ## Hur tror du världen kommer förändras till följd av social scoring?
 
 Kinas sociala kreditpoängsystem, som utvärderar individuellt beteende och aktiviteter för att bestämma sociala kreditpoäng, har blivit en av de mest kontroversiella innovationerna i Kina under det senaste decenniet. Systemet, som kan användas för att belöna eller straffa individer baserat på deras beteende, kan även påverka deras möjligheter till anställning, utbildning och resor.
