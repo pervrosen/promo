@@ -2,7 +2,7 @@
 title: "Lagstiftning"
 date: 2023-02-25T20:31:53+01:00
 image: pic08.jpeg
-draft: false
+draft: true
 publishDate: 2023-03-17
 ---
 
