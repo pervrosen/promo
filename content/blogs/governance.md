@@ -1,9 +1,9 @@
 ---
 title: "AI Governance"
-date: 2023-02-25T20:31:53+01:00
+date: 2023-03-17T20:31:53+01:00
 draft: false
 image: pic07.jpeg
-publishDate: 2023-03-23
+publishDate: 2023-03-17
 ---
 
 Artificiell intelligens (AI) har blivit allt vanligare inom företagsvärlden och har visat sig ha stor potential för att förbättra verksamhetsresultaten. Men samtidigt med de fördelar som AI kan erbjuda, finns det också risker och utmaningar som företag måste ta hänsyn till när de använder denna teknologi. En av dessa utmaningar är att säkerställa att AI används på ett etiskt och ansvarsfullt sätt. För att göra det är det viktigt att företag sätter upp en governancestruktur för AI. I denna artikel kommer vi att diskutera vad som krävs för att etablera en sådan struktur.
@@ -24,7 +24,8 @@ Referens: European Commission. (2019). Ethics guidelines for trustworthy AI. Hä
 
 Företaget bör upprätta en internkontrollstruktur för AI för att säkerställa att de etiska riktlinjerna och policyn följs. Detta inkluderar att utse en ansvarig person eller grupp som övervakar AI-systemen och deras användning.
 
-Referens: Information Commissioner's Office. (2021). Guidance on AI and data protection. Hämtad från https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/ai-guidance/
+Referens: Guidance on AI and data protection . Hämtad från 
+https://ico.org.uk/for-organisations/guide-to-data-protection/key-dp-themes/guidance-on-ai-and-data-protection/
 
 ## Steg 4: Skapa en AI-policy
 
@@ -36,19 +37,18 @@ Referens: European Commission. (2020). White Paper on Artificial Intelligence - 
 
 Företaget bör skapa en utbildnings- och medvetenhetsprogram för att se till att alla anställda som arbetar med AI har en god förståelse för de etiska och moraliska frågor som kan uppstå. Programmet bör också inkludera utbildning om hur man använder AI på ett ansvarsfullt sätt och hur man upptäcker och rapporterar eventuella överträdelser.
 
-Referens: PwC. (2019). Responsible AI: A guide for business leaders. Hämtad från https://www.pwc.com/gx/en/issues/data-and-analytics/assets/pwc-responsible-ai.pdf
+Referens: PwC. A practical guide to Responsible Artificial Intelligence (AI) Hämtad från https://www.pwc.com/gx/en/issues/data-and-analytics/artificial-intelligence/what-is-responsible-ai/responsible-ai-practical-guide.pdf
 
 ## Steg 6: Säkerställa datakvalitet och integritet
 
 Företaget måste säkerställa datakvalitet och integritet för att se till att AI-algoritmerna tränas på korrekt och tillförlitlig data. Detta innebär att data måste vara noggrant valda och bearbetade för att undvika fördomar och diskriminering.
 
-Referens: The Alan Turing Institute. (2021). Governance frameworks for AI. Hämtad från https://www.turing.ac.uk/research/research-projects/governance-frameworks-ai
+Referens: The Alan Turing Institute. (2021). Artificial intelligence in government: Concepts, standards, and a unified framework
+https://www.turing.ac.uk/news/publications/artificial-intelligence-government-concepts-standards-and-unified-framework
 
 ## Steg 7: Uppdatera governancestruktur regelbundet
 
 Företaget bör uppdatera sin governancestruktur för AI regelbundet för att se till att den fortfarande är lämplig och effektiv. Denna uppdatering kan göras på basis av nya rön inom området AI och genom feedback från anställda och intressenter.
-
-Referens: Harvard Business Review. (2020). The key to responsible AI: Governance. Hämtad från https://hbr.org/2020/04/the-key-to-responsible-ai-governance
 
 ## Slutsats
 
