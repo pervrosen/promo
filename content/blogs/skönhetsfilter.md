@@ -16,7 +16,7 @@ Skönhetfilter kan ha en negativ effekt på mental hälsa och självbild. En stu
 
 För unga användare av sociala medier kan användningen av skönhetfilter ha en särskilt negativ effekt på självbilden. En undersökning av Royal Society for Public Health i Storbritannien fann att Instagram var den sociala medieplattform som hade den mest negativa effekten på unga människors självbild, med användningen av skönhetfilter som en av de bidragande faktorerna.
 
-Flera sociala medieplattformar har nu börjat ta steg för att minska användningen av skönhetfilter. Instagram har nyligen tagit bort skönhetfilter som ökar bröststorleken och infört en varning som dyker upp när användare försöker använda filter som påverkar ansiktet på ett sätt som kan vara skadligt.
+Flera sociala medieplattformar har nu börjat ta steg för att minska användningen av skönhetfilter. Instagram har tagit bort skönhetfilter som ökar bröststorleken och infört en varning som dyker upp när användare försöker använda filter som påverkar ansiktet på ett sätt som kan vara skadligt.
 
 Det är viktigt att politiker tar ansvar för att skydda allmänhetens hälsa och välbefinnande genom att övervaka användningen av skönhetfilter och vidta åtgärder för att minska deras negativa effekter. Vi behöver också mer forskning om skönhetfilter och deras påverkan på vår självbild och mentala hälsa.
 
