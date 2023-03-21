@@ -1,9 +1,9 @@
 ---
 title: "Lagstiftning"
-date: 2023-02-25T20:31:53+01:00
+date: 2023-03-21-25T20:31:53+01:00
 image: pic08.jpeg
-draft: true
-publishDate: 2023-03-17
+draft: false
+publishDate: 2023-03-21
 ---
 
 Artificiell intelligens (AI) blir alltmer kraftfull och integreras i olika aspekter av samhället, från industri och sjukvård till utbildning och försvar. Som AI-teknikerna utvecklas och används allt mer utbredd, blir det allt mer nödvändigt att granska och uppdatera befintliga lagar och regleringar för att säkerställa att AI används på ett etiskt och ansvarsfullt sätt.
