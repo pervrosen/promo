@@ -61,9 +61,9 @@ Du kan också mata in exempel i en språkmodell. I exemplet nedan inkluderar jag
 
 Nu när vi vet vad en prompt är, och vi har sett några exempel på det, låt oss diskutera vad som är prompt engineering.
 
-Snabb ingenjörskonst är en mycket ny men snabbt växande disciplin som har som mål att utforma den optimala prompten givet en generativ modell och ett mål. Snabb ingenjörskonst växer så snabbt att många tror att den kommer att ersätta andra aspekter av maskininlärning som funktionsteknik eller arkitekturteknik för stora neurala nätverk.
+Prompt Engineering är en mycket ny men snabbt växande disciplin som har som mål att utforma den optimala prompten givet en generativ modell och ett mål. Prompt Engineering växer så snabbt att många tror att den kommer att ersätta andra aspekter av maskininlärning som funktionsteknik eller arkitekturteknik för stora neurala nätverk.
 
-Snabb ingenjörskonst kräver viss domänförståelse för att införliva målet i prompten (t.ex. genom att bestämma hur bra och dåliga resultat ska se ut). Det kräver också förståelse för modellen. Olika modeller kommer att reagera olika på samma typ av uppmaningar.
+Prompt Engineering kräver viss domänförståelse för att införliva målet i prompten (t.ex. genom att bestämma hur bra och dåliga resultat ska se ut). Det kräver också förståelse för modellen. Olika modeller kommer att reagera olika på samma typ av uppmaningar.
 
 Att generera uppmaningar i någon skala kräver ett programmatiskt tillvägagångssätt. På den mest grundläggande nivån vill du generera promptmallar som kan modifieras programmatiskt enligt någon datauppsättning eller kontext. Som ett grundläggande exempel, om du hade en databas med personer med en kort text om dem som liknar den som användes i högskoleuppsatsen ovan. Uppmaningsmallen skulle bli något i stil med "Med tanke på följande information om [ANVÄNDARE], skriv en högskoleuppsats med fyra stycken: [USER_BLURB]". Och det programmatiska tillvägagångssättet för att generera högskolebrev för alla användare skulle se ut ungefär så här:
 
