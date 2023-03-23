@@ -1,6 +1,14 @@
+---
+title: "Promt Engineering del 2"
+date: 2023-03-23T09:11:53+01:00
+image: pic15.jpg
+draft: false
+publishDate: 2023-03-23
+---
+
 ## Prompt Engineering del 2
 
-Vi har ju tidigare tittat på att man måste formulera frågorna specifikt med ett sammanhang/roll som ackompanjerar frågan man vill ha svar på, [Prompt Engineering del 1](https://ai-tankesmedjan.onrender.com/blogs/promt/). I den uppdaterade manualen ser vi på att OpenAI själv rekommenderar att bete sig på detta sätt officiellt i sitt api.
+Vi har ju tidigare tittat på att man måste formulera frågorna specifikt med ett sammanhang/roll som ackompanjerar frågan man vill ha svar på, [Prompt Engineering del 1](https://ai-tankesmedjan.onrender.com/blogs/promt/). I den uppdaterade manualen ser vi på att OpenAI själva rekommenderar att bete sig på detta sätt officiellt i sitt api.
 
 ```
 import openai
