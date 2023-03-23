@@ -24,7 +24,6 @@ openai.ChatCompletion.create(
 )
 ```
 
-Dvs kontext/roll anges i role och frågan i content. 
 
 Ett exempel:
 
