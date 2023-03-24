@@ -2,6 +2,8 @@
 title: "Misslyckas AI-projekt mer frekvent?"
 date: 2023-03-24T20:31:53+01:00
 draft: false
+image: pic11.avif
+publishDate: 2023-03-24
 ---
 
 I en allt tuffare ekonomisk miljö kan det vara knepigt att finansiera innovationsinitiativ. Så när organisationen sitt högsta fokus på att vara effektiv, knackar AI-revolutionen på dörren. Att bara driva innovation kan vara knepigt, och Kotter i XLR8 belyser både komplexiteten och föreslår en handfast lösning. Men AI-projekt har även ett rykte om sig att ha hög misslyckandefrekvens. Så vilken förnuftig chef skulle initiera ett projekt med hög sannolikhet för misslyckas i dessa tider?
