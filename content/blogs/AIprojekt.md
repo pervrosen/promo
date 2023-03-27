@@ -1,7 +1,7 @@
 ---
 title: "Misslyckas AI-projekt mer frekvent?"
 date: 2023-03-24T20:31:53+01:00
-draft: false
+draft: true
 image: pic11.avif
 publishDate: 2023-03-24
 ---
