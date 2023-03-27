@@ -2,6 +2,8 @@
 title: "AI-flockar"
 date: 2023-03-27T20:31:53+01:00
 draft: false
+image: swarm.jpeg
+publishDate: 2023-03-27
 ---
 
 Självorganiserande flockbeteende hos djur är en fascinerande företeelse som kan vara tillämplig på skapandet av mer intelligenta artificiella intelligenser (AI). Forskning visar på likheter mellan hjärnan och flockbeteende, där hjärnan fungerar som en samling av flera identiteter som samverkar för att uppnå ett gemensamt mål. Detta påminner om hur en enskild cell kan bli cancerös och tappa förmågan att följa kroppens regler, vilket kan leda till allvarliga hälsoproblem. På samma sätt kan en AI-agent också tappa förmågan att följa programlogiken och bete sig på ett förutsägbart sätt, vilket kan leda till allvarliga problem.
