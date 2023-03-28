@@ -24,7 +24,7 @@ En naturlig utvecklig blir förstås att kombinera "syn","smak" och "berörings"
 
 Sammanfattningsvis kan ensemblemodeller ses som en kombination av flera individuella modeller, där varje modell kan betraktas som ett enskilt sinne som arbetar tillsammans för att skapa en mer komplett uppfattning av datamängden.
 
-Ensemblemodeller är stabila i jämförelse med AI swärmar. Dvs Ensemblemodellens komponenter är i sig egna färdigutvecklade enheter som sätts ihop. Vikterna i ensemblemodellens komponenter hålls då "till stor del" stabila och bara "klistret"/vikterna mellan komponenterna tillåts optimeras fram.
+Ensemblemodeller är stabila i jämförelse med AI svärmar. Dvs Ensemblemodellens komponenter är i sig egna färdigutvecklade enheter som sätts ihop. Vikterna i ensemblemodellens komponenter hålls då "till stor del" stabila och bara "klistret"/vikterna mellan komponenterna tillåts optimeras fram.
 
 Detta tillskillnad från AI svärmar som vi pratade om igår. Men för att var komplett så går vi igenom detta snabbt igen.
 
