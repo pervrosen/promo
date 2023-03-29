@@ -20,7 +20,7 @@ Uppsatsen, som författades av forskare från OpenAI, OpenResearch och Universit
 
 Forskarna definierade "exponering" som ett mått på huruvida tillgång till ett GPT-drivet system skulle kunna minska tiden det tar för en människa att utföra en specifik arbetsuppgift med minst 50 procent. 
 
-Vilka jobb är mest "exponerade"?
+Vilka jobb är mest "exponerade"? 
 För studien utarbetade mänskliga experter och AI var för sig exponeringen för olika yrken. Språkmodellen stämplade 86 jobb som "helt exponerade".
 
 Helt exponerad betyder inte att uppgifterna kan automatiseras helt med dessa tekniker, noterar författarna - men det betyder att de uppskattar att GPT:er kan spara "en betydande tid på att slutföra en stor del av sina uppgifter".
