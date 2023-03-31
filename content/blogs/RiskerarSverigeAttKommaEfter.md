@@ -1,6 +1,6 @@
 ---
 title: "Riskerar Sverige att kommma efter?"
-draft: true
+draft: false
 image: robotrunner.jpeg
 publishDate: 2023-03-31
 ---
