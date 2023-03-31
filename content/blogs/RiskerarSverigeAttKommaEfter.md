@@ -1,7 +1,7 @@
 ---
 title: "Riskerar Sverige att kommma efter?"
 date: 2023-03-31T20:31:53+01:00
-draft: false
+draft: true
 image: robotrunner.jpeg
 publishDate: 2023-03-31
 ---
@@ -14,17 +14,19 @@ Hoppet är verkligen inte kört för Svensk del, många av de modeller som tagit
 
 Vi på AI tankesmedjan försöker göra vårt för att hjälpa till. Per har trännat upp följande röst på Svenska, <a href="/audio/hepp-2.wav">Pers AI realtidsröst</a>. Och han håller nu på att tränna upp fler basröster på samma text, vilket är grunden för att kunna göra de mer efektiva imeteringarna, som bla annat Microsoft pratar om där det räcker med 4 sekunder av någons röst. 
 
-Förutom att vi börjar träna upp modeller på Svensk data, behöver våra Svenska bolag börja tränna upp modeller i betydligt högre utsträckning på egen data. Vår Svenska bolag har större mängder properitär data, som kan ge unika färdigheter för framtida tjänster. Men det är även så att precis som med GDPR, så går det inte att använda alla AI tjänster på ett ansvarsfullt sätt, då olämplig data riskerar att läcka. För att våra bolag skall kunna realisera dessa möjligheter krävs en AI mognad. Och för att nå en sådan mognad krävs ett Center of AI excelens eller liknande. 
+Förutom att vi börjar träna upp modeller på Svensk data, behöver våra Svenska bolag börja tränna upp modeller i betydligt högre utsträckning på egen data. Vår Svenska bolag har större mängder properitär data, som kan ge unika färdigheter för framtida tjänster. Men det är även så att precis som med GDPR, så går det inte att använda alla AI tjänster på ett ansvarsfullt sätt, då olämplig data riskerar att läcka. För att våra bolag skall kunna realisera dessa möjligheter krävs en AI mognad. Och för att nå en sådan mognad krävs ett Center of AI Excellence (CAIE). 
 
 Denna enhet behöver:
-* Ta fra riktlinjer för vilka tjänster de anställda kan använda och med vilken data. Tex skall det vara ok att använda code pilot för en säker inlogning? Eller granska en text inför en kvartalsrapport med GPT4?
-* Vara uppdaterad på nya modeller.  
-* Träna upp modeller med egen data.
-* Vara en aktiv del i projekt som implementerar för att säkra dess leverans. AI projekt har en större komplexitet och kräver en annan kompetens för att lyckas.
-* Ta fram etiska riklinjer.
-* Säkra upp governance strukturer  ur ett AI perspektiv, processer som CAB, outsourcing direktiv, NPAP med flera.
-* Hjälpa affärsenheter att se möjligheter med AI.
-* Ta fram internt utbildningsmaterial.
+* Utveckla och implementera en AI-strategi som stämmer överens med organisationens mål och syften, inklusive att identifiera AI-användningsområden som kan gynna organisationen.
+* Ansvara för policys, standarder och riktlinjer för AI-utveckling och användning inom organisationen. Vilket bla Outsourcing direktiv,CAB processen, NPAP samt riktlinjer för vilka tjänster de anställda får använda och med vilken data. Tex skall det vara ok att använda code pilot för utveckling av en bankid inloggning? anvnda chatgpt för att ta fram en kvartalsrapport? 
+* Hålla sig uppdaterad om de senaste AI-modellerna, öppen källkod och forskningsframsteg inom området, och utvärdera deras potentiella tillämplighet för organisationen.
+* Hantera data för att säkerställa att den är korrekt, komplett och lämpligt märkt för användning i AI-modellutveckling.
+* Tränna AI-modeller med organisationens data, för att bygga interna och externa tjänster.
+* Övervaka prestandan hos AI-modeller i produktion och kontinuerligt förbättra dem baserat på feedback och ny data.
+* Ansvarig för framtagande av lämpliga utbildningar.
+* Säkerställa att AI-modeller utvecklas och används på ett etiskt och opartiskt sätt, och att de uppfyller dataskydds- och säkerhetsregler.
+* Ge tankeledarskap inom AI-fältet genom att delta i konferenser och bidra till AI utvecklingen i Sverige.
+* Vara en aktiv del i projekt som implementerar AI-lösningar för att säkra dess leverans. AI projekt har en större komplexitet och kräver en annan kompetens för att lyckas.
 
 Så om Sverige skall kunna behålla sin position, krävs att vi alla tar ett steg framåt och börjar välkommna denna teknik på alvar.
 
