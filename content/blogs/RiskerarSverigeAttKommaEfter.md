@@ -18,7 +18,7 @@ Förutom att vi börjar träna upp modeller på Svensk data, behöver våra Sven
 
 Denna enhet behöver:
 * Ta fra riktlinjer för vilka tjänster de anställda kan använda och med vilken data. Tex skall det vara ok att använda code pilot för en säker inlogning? Eller granska en text inför en kvartalsrapport med GPT4?
-* Vara uppdaterad på nya modeller. 
+* Vara uppdaterad på nya modeller.  
 * Träna upp modeller med egen data.
 * Vara en aktiv del i projekt som implementerar för att säkra dess leverans. AI projekt har en större komplexitet och kräver en annan kompetens för att lyckas.
 * Ta fram etiska riklinjer.
