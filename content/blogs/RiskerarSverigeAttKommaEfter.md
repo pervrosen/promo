@@ -1,8 +1,9 @@
 ---
 title: "Riskerar Sverige att kommma efter?"
+date: 2023-03-31T20:31:53+01:00
 draft: false
 image: robotrunner.jpeg
-publishDate: 2023-03-25
+publishDate: 2023-03-31
 ---
 
 Sverige har en historik av att vara early adopters. Vi byggde tidigt ut fibernät, vi införde digital identifiering tidigt. Och våran nyfikenhet att ta åt os ny teknik har varit grunden i Sveriges framgång inom de tekniska områdena.
