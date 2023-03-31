@@ -18,15 +18,18 @@ Förutom att vi börjar träna upp modeller på Svensk data, behöver våra Sven
 
 Denna enhet behöver:
 * Utveckla och implementera en AI-strategi som stämmer överens med organisationens mål och syften, inklusive att identifiera AI-användningsområden som kan gynna organisationen.
-* Ansvara för policys, standarder och riktlinjer för AI-utveckling och användning inom organisationen. Vilket bla Outsourcing direktiv,CAB processen, NPAP samt riktlinjer för vilka tjänster de anställda får använda och med vilken data. Tex skall det vara ok att använda code pilot för utveckling av en bankid inloggning? anvnda chatgpt för att ta fram en kvartalsrapport? 
+* Ansvara för policys, standarder och riktlinjer för AI-utveckling och användning inom organisationen. Detta inkluderar till exempel outsourcing-direktiv, CAB-processen, NPAP och riktlinjer för vilka tjänster de anställda får använda och med vilken data. Exempelvis ska det vara ok att använda code pilot för utveckling av en bankid inloggning eller använda chatgpt för att ta fram en kvartalsrapport?
 * Hålla sig uppdaterad om de senaste AI-modellerna, öppen källkod och forskningsframsteg inom området, och utvärdera deras potentiella tillämplighet för organisationen.
 * Hantera data för att säkerställa att den är korrekt, komplett och lämpligt märkt för användning i AI-modellutveckling.
-* Tränna AI-modeller med organisationens data, för att bygga interna och externa tjänster.
+* Träna AI-modeller med organisationens data, för att bygga interna och externa tjänster.
 * Övervaka prestandan hos AI-modeller i produktion och kontinuerligt förbättra dem baserat på feedback och ny data.
-* Ansvarig för framtagande av lämpliga utbildningar.
+* Ansvara för framtagande av lämpliga utbildningar.
 * Säkerställa att AI-modeller utvecklas och används på ett etiskt och opartiskt sätt, och att de uppfyller dataskydds- och säkerhetsregler.
-* Ge tankeledarskap inom AI-fältet genom att delta i konferenser och bidra till AI utvecklingen i Sverige.
-* Vara en aktiv del i projekt som implementerar AI-lösningar för att säkra dess leverans. AI projekt har en större komplexitet och kräver en annan kompetens för att lyckas.
+* Ge tankeledarskap inom AI-fältet genom att delta i konferenser och bidra till AI-utvecklingen i Sverige.
+* Var en aktiv del i projekt som implementerar AI-lösningar för att säkra dess leverans. AI-projekt har en större komplexitet och kräver en annan kompetens för att lyckas.
+
+
+
 
 Så om Sverige skall kunna behålla sin position, krävs att vi alla tar ett steg framåt och börjar välkommna denna teknik på alvar.
 
