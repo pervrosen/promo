@@ -11,7 +11,7 @@ När det kommer till AI, så är det svårare för Sverige att ta en ledande pos
 
 Hoppet är verkligen inte kört för Svensk del, många av de modeller som tagits fram är publika, det finns även väldigt mycket opensource bibliotek av väldigt hög kvalite tillängliga. Men vi behöver tränna upp dessa modeller med Svensk data, och i större mängder med hög kvalitée. 
 
-Vi på AI tankesmedjan försöker göra vårt för att hjälpa till. Per har trännat upp följande röst på Svenska, xxx. Och han håller nu på att tränna upp fler basröster på samma text, vilket är grunden för att kunna göra de mer efektiva imeteringarna, som bla annat Microsoft pratar om där det räcker med 4 sekunder av någons röst. 
+Vi på AI tankesmedjan försöker göra vårt för att hjälpa till. Per har trännat upp följande röst på Svenska, {{< ref "hepp-2.wav" >}}. Och han håller nu på att tränna upp fler basröster på samma text, vilket är grunden för att kunna göra de mer efektiva imeteringarna, som bla annat Microsoft pratar om där det räcker med 4 sekunder av någons röst. 
 
 Förutom att vi börjar träna upp modeller på Svensk data, behöver våra Svenska bolag börja tränna upp modeller i betydligt högre utsträckning på egen data. Vår Svenska bolag har större mängder properitär data, som kan ge unika färdigheter för framtida tjänster. Men det är även så att precis som med GDPR, så går det inte att använda alla AI tjänster på ett ansvarsfullt sätt, då olämplig data riskerar att läcka. För att våra bolag skall kunna realisera dessa möjligheter krävs en AI mognad. Och för att nå en sådan mognad krävs ett Center of AI excelens eller liknande. 
 
