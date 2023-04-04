@@ -1,12 +1,12 @@
 ---
 title: "AI-Etik"
 date: 2023-04-04T20:31:53+01:00
-image: etik.jpg
+image: etik.jpeg
 draft: true
 publishDate: 2023-04-04
 ---
 
-## EAI-Etik, så lever vi upp till våra värderingar.
+## AI-Etik, så lever vi upp till våra värderingar.
 
 ### Många som har haft alvarliga incidenter.
 
