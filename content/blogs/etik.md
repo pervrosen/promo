@@ -8,7 +8,7 @@ publishDate: 2023-04-04
 
 ## AI-Etik, så lever vi upp till våra värderingar.
 
-### Många som har haft allvarliga incidenter.
+### Det är många som har haft allvarliga incidenter.
 
 En av de väldigt svåra utmaningarna med AI, är att säkerställa att man lever upp till sina värderingar. Det är till och med så illa att om man inte lägger ner stor kraft på att undvika AI-bias kommer det att gå väldigt fel, väldigt fort. Och det finns gott om exempel på sådana olyckliga situationer:
 
