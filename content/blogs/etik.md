@@ -24,7 +24,7 @@ En av de väldigt svåra utmaningarna med AI, är att säkerställa att man leve
 
 ### Så undviker vi att göra om liknande misstag.
 
-Så vad krävs för att vi skall använda AI på ett ansvarsfullt sätt?
+Vad krävs för att vi skall kunna producera en ansvarsfull AI?
 
  * Datamaterialet som används bör representera "vad som borde vara" och inte "vad som är" (representerat av den delmängd data man förfogar över).
  * Vi måste aktivt se till att datan vi använder representerar alla på ett likvärdigt sätt och på ett sätt som inte diskriminerar en viss grupp människor.
