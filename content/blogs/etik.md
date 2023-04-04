@@ -2,7 +2,7 @@
 title: "AI-Etik"
 date: 2023-04-04T20:31:53+01:00
 image: etik.jpeg
-draft: true
+draft: false
 publishDate: 2023-04-04
 ---
 
