@@ -34,31 +34,19 @@ En av de väldigt svåra utmaningarna med AI, är att säkerhetställa att man l
 Så vad krävs för att vi skall använda AI på ett ansvarsfullt sätt?
 
  * Datamaterialet som används bör representera "vad som borde vara" och inte "vad som är".
-
  * Vi måste aktivt se till att datan vi använder representerar alla på ett likvärdigt sätt och på ett sätt som inte diskriminerar en viss grupp människor.
-
  * En viss typ av datastyrning bör vara obligatorisk och genomdrivas.
-
  * Modellutvärdering bör inkludera en utvärdering av sociala grupper.
-
  * Kontinuerlig uppdatering och övervakning av AI-system är viktigt för att se till att de fortfarande är rättvisa över tiden.
-
  * Inkludera mångfald i utvecklingen av AI-system för att se till att olika perspektiv och erfarenheter beaktas.
-
  * Öppenhet kring AI-system är viktigt för att skapa transparens och öppen diskussion om eventuella bias som kan finnas.
-
  * Utveckling av etiska riktlinjer för AI-algoritmer som tar hänsyn till sociala, ekonomiska och kulturella faktorer för att säkerställa att algoritmerna är rättvisa och inte diskriminerande.
 
  * Undvik att använda AI-system för beslut som kan påverka människors liv på ett negativt sätt.
-
  * Ökad medvetenhet och utbildning om AI-bias för både utvecklare och användare av AI-system är nödvändigt.
-
  * Undvik att använda AI-system som är tränade på historiska data som innehåller diskriminering.
-
  * Att inkludera etiska riktlinjer i utvecklingsprocessen för AI-system är avgörande.
-
  * Användning av AI-system för att upptäcka och korrigera bias kan vara en effektiv strategi.
-
  * Ett samarbete mellan regeringar, akademiker, utvecklare och användare kan bidra till att minska…
 
 Sammanfattningsvis, AI-baias är varken ett litet område, eller någt som går att nerprioritera. Om man skall vara framgångsrik med sinna AI-sattsningar, utan att riskera att gå emot sin egen värdegrund och riskera sitt varumärke, krävs det att man lägger ner stor kraft och energi på dessa frågor. 
