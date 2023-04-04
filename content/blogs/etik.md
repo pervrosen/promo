@@ -1,8 +1,8 @@
 ---
 title: "AI-Etik"
 date: 2023-04-04T20:31:53+01:00
-image: etik.jpeg
 draft: false
+image: etik.jpeg
 publishDate: 2023-04-04
 ---
 
@@ -12,9 +12,9 @@ publishDate: 2023-04-04
 
 En av de väldigt svåra utmaningarna med AI, är att säkerhetställa att man lever upp till sina värderingar. Det är tillochmed så illa att om man inte lägger ner stor kraft på att undvika AI-baias kommer det att gå väldigt fel väldigt fort. Och det finns gott om exempel på sådana olyckliga situationer:
 
-* Amazon, 2018 avslöjade en rapport från Reuters att Amazon hade utvecklat en AI-baserad rekryteringsalgoritm som skulle hjälpa till att sålla ut kandidater för jobb på företaget. Men algoritmen visade sig vara diskriminerande mot kvinnor eftersom den hade lärt sig att favorisera manliga kandidater, antagligen på grund av att företagets tidigare anställda och deras CV:er huvudsakligen bestod av män. Amazon tvingades avbryta projektet.
+ * Amazon, 2018 avslöjade en rapport från Reuters att Amazon hade utvecklat en AI-baserad rekryteringsalgoritm som skulle hjälpa till att sålla ut kandidater för jobb på företaget. Men algoritmen visade sig vara diskriminerande mot kvinnor eftersom den hade lärt sig att favorisera manliga kandidater, antagligen på grund av att företagets tidigare anställda och deras CV:er huvudsakligen bestod av män. Amazon tvingades avbryta projektet.
 
-* Google Translate, en studie från 2016 visade att programvaran tenderade att visa könsbias i översättningar från vissa språk till andra. Till exempel, när man översatte från engelska till arabiska, så översatte Google Translate "he" till "han" och "she" till "hon" i nästan alla fall, även när könnet inte var känt eller relevant. Referens: Lui, M., & Baldwin, T. (2016). On the representation and generalization of gender (im) politeness in neural conversation models. arXiv preprint arXiv:1606.08340.
+ * Google Translate, en studie från 2016 visade att programvaran tenderade att visa könsbias i översättningar från vissa språk till andra. Till exempel, när man översatte från engelska till arabiska, så översatte Google Translate "he" till "han" och "she" till "hon" i nästan alla fall, även när könnet inte var känt eller relevant. Referens: Lui, M., & Baldwin, T. (2016). On the representation and generalization of gender (im) politeness in neural conversation models. arXiv preprint arXiv:1606.08340.
 
  * I oktober 2019 upptäckte forskare att en algoritm som användes på över 200 miljoner människor på sjukhus i USA för att förutsäga vilka patienter som troligtvis skulle behöva extra medicinsk vård gynnade kraftigt vita patienter över svarta patienter.
 
