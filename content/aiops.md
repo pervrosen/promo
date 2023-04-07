@@ -1,4 +1,4 @@
-## AIOps och MLOps
+## AIOps, MLOps och ModelOps
 
 ### Vad är MLOps?
 
