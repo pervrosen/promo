@@ -57,6 +57,14 @@ De flesta organisationer använder statiska infrastrukturkartor, som ger begrän
 
 Varningströtthet, när ett överväldigande antal varningar gör att en individ blir okänslig för dem, är ett stort problem i incidentresponsen. AIOps minimerar larmtrötthet genom att förhindra larmstormar från att överväldiga dina anställda. AIOps-lösningar filtrerar och korrelerar meningsfull data för att undertrycka lågprioriterade varningar och gruppera varningar som är relaterade. Genom att leverera intelligenta varningar som prioriteras baserat på användar- och affärspåverkan, begränsar AIOps-lösningar bruset och säkerställer att dina kritiska varningar uppmärksammas.
 
-#### Anomaliupptäckt
+#### Anomaliupptäckt 
 
 Att upptäcka och åtgärda problem när din IT-infrastruktur blir mer dynamisk är ingen lätt bedrift. Att försöka förstå grundorsaken till ett potentiellt problem kan vara extremt svårt att göra, vilket gör avvikelsedetektering kritisk i många fall. AIOps gör anomalidetektering snabbare och i slutändan mer effektiv. Det beror på att AIOps kan övervaka skillnaden mellan värdet på en KPI och vad maskininlärningsmodellen förutspår. Sedan kan den flagga avvikelser som orsakar förödelse.
+
+### ModelOps
+
+ModelOps (eller AI-modelloperation) fokuserar främst på styrning och livscykelhantering av ett brett utbud av operationaliserade artificiell intelligens (AI) och beslutsmodeller, inklusive maskininlärning, kunskapsgrafer, regler, optimering, språkliga och agentbaserade modeller. Kärnfunktioner inkluderar kontinuerlig integration/kontinuerlig leverans (CI/CD)-integration, modellutvecklingsmiljöer, champion-challenger-testning, modellversionering, modellbutik och återställning.
+
+#### Låter ModelOps komplicerat?
+
+Du kan se ModelOps som AI intregrerat i utvecklingsprocessen, men även integrerat in i användarens andvändning (-process). Och med versionshantering. Så man kan säga ModelOps är MLOps plus integreringen in i applikationernas CI/CD process med betoning att hjälpa användaren och användarens problem.
