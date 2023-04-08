@@ -67,4 +67,4 @@ ModelOps (eller AI-modelloperation) fokuserar främst på styrning och livscykel
 
 #### Låter ModelOps komplicerat?
 
-Du kan se ModelOps som AI integrerat i utvecklingsprocessen, men även integrerat in i användarens andvändning (-process). Och med versionshantering. Så man kan säga ModelOps är MLOps plus integreringen in i applikationernas CI/CD process med betoning att hjälpa användaren och användarens problem.
+Du kan se ModelOps som AI integrerat i utvecklingsprocessen, men även integrerat in i användarens användning (-process). Och med versionshantering. Så man kan säga ModelOps är MLOps plus integreringen in i applikationernas CI/CD process med betoning att hjälpa användaren och användarens problem.
