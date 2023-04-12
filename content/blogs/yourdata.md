@@ -28,7 +28,7 @@ De val som finns:
 
  1 Ni kan använda APIet from OpenAI, då det tydligt säger att er data inte används.
 
- 2 Du kan avstå från data tracking med följande formulär
+ 2 Du kan avstå från data tracking med följande formulär på instruerande sida. - [LINK](https://www.groovypost.com/howto/opt-out-your-data-on-chatgpt/)
 
  3 Du kan installera en egen säker instans på Microsoft Azure.
 
