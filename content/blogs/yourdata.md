@@ -1,7 +1,7 @@
 ---
 title: "Var rädd om er data"
 date: 2023-04-13T20:31:53+01:00
-image: pic01.png
+image: oprisk.jpeg
 draft: false
 publishDate: 2023-04-13
 ---
