@@ -22,7 +22,9 @@ Problemet är framför allt att användare inte fullt förstår att deras data a
 
 Så hur stor är risken att era anställda delar känslig data? Antagligen väldigt stor när bolag som Samsung haft stora problem - [SamsungNews](https://computersweden.idg.se/2.2683/1.778119/samsung-ska-rakat-lacka-hemligheter-via-chat-gpt)
 
- ## Lösningen behöver inte vara att förbjuda ChatGPT. De val som finns är:
+ ## Lösningen behöver inte vara att förbjuda ChatGPT 
+
+De val som finns:
 
  1 Ni kan använda APIet from OpenAI, då det tydligt säger att er data inte används.
 
@@ -30,4 +32,4 @@ Så hur stor är risken att era anställda delar känslig data? Antagligen väld
 
  3 Du kan installera en egen säker instans på Microsoft Azure.
 
-Så när ni kommer tillbaka till kontoret på tisdag efter påskhelgen, rekommenderar vi er att fråga efter vilka riktlinjer ni har kring användandet av ai tjänster och hur de är ut kommunicerade. Fråga även efter vilka internutbildningar som alla anställda har fått gå om AI och om de är obligatoriska. Fråga även hur ni arbetar med AI governance? Fråga har ni en AI CoE (AI-Center Of Excellence). Utifrån de svar ni får bör det gå att få en hum om vilken operativ risk ert bolag utsätter sig för, och en möjlighet att undvika .
+Så vad säger vi? Fråga efter vilka riktlinjer ni har kring användandet av AI-tjänster och hur de är ut kommunicerade. Fråga även efter vilka internutbildningar som alla anställda har fått gå om AI och om de är obligatoriska. Fråga även hur ni arbetar med AI governance? Fråga har ni en AI CoE (AI-Center Of Excellence). Utifrån de svar ni får bör det gå att få en hum om vilken operativ risk ert bolag utsätter sig för, och om det är något ni behöver adressera.
