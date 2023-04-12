@@ -32,4 +32,4 @@ De val som finns:
 
  3 Du kan installera en egen säker instans på Microsoft Azure.
 
-Så vad säger vi? Fråga efter vilka riktlinjer ni har kring användandet av AI-tjänster och hur de är ut kommunicerade. Fråga även efter vilka internutbildningar som alla anställda har fått gå om AI och om de är obligatoriska. Fråga även hur ni arbetar med AI governance? Fråga har ni en AI CoE (AI-Center Of Excellence). Utifrån de svar ni får bör det gå att få en hum om vilken operativ risk ert bolag utsätter sig för, och om det är något ni behöver adressera.
+Så vad rekommenderar vi er att göra? Fråga er organisation efter vilka riktlinjer ni har kring användandet av AI-tjänster och hur de är kommunicerade. Fråga även efter vilka internutbildningar som (alla) anställda har fått gå om användande av AI, samt om de är obligatoriska. Fråga hur ni arbetar med AI governance? Har ni en AI CoE (AI-Center Of Excellence) på plats? Utifrån de svar ni får bör det gå att få ett hum om vilken operativ risk ert bolag utsätter sig för, och om det är något ni behöver adressera.
