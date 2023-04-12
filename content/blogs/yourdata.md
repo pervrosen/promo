@@ -1,3 +1,11 @@
+---
+title: "Var rädd om er data"
+date: 2023-04-13T20:31:53+01:00
+image: pic01.png
+draft: false
+publishDate: 2023-04-13
+---
+
 # Mata inte in er företagsdata i ChatGPT 
 
 Den här artikeln är framförallt skriven för dig som sitter i bolagets styrelse eller ledningsgrupp, med syfte att inte ta onödig operativ risk.
