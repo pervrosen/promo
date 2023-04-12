@@ -8,11 +8,11 @@ publishDate: 2023-04-13
 
 # Mata inte in er företagsdata i ChatGPT 
 
-Den här artikeln är framförallt skriven för dig som sitter i bolagets styrelse eller ledningsgrupp, med syfte att inte ta onödig operativ risk.
+Den här artikeln är framförallt skriven för dig som sitter i bolagets styrelse eller ledningsgrupp, med syfte att undvika onödig operativ risk.
 
 När vi började med tankesmedjan AI-revolutionen, var det för att sprida kunskap om AI. Samt ett sätt för oss att fördjupa oss i det vi brinner mest för, AI och hur det påverkar samhället. Vi ville inte hålla på med brandtal och ansluta oss till den dramatiska skaran. Men sedan starten har vi fått möjligheten att få prata AI med så många fantastiska människor, vilket har gett oss den insyn som fått oss att fatta beslut om undantag. **Mata inte in era data in i ChatGPT!**
 
-Open AI tydligt specificerar:
+ ## Open AI tydligt specificerar:
 
 “...We may use Content from Services other than our API {“Non-API Content”) to help develop and improve our Services..."
 
