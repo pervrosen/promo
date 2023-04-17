@@ -41,5 +41,5 @@ Vad krävs för att vi skall kunna producera en ansvarsfull AI?
  * Användning av AI-system för att upptäcka och korrigera bias kan vara en effektiv strategi.
  * Ett samarbete mellan regeringar, akademiker, utvecklare och användare kan bidra till att minska dessa problem
 
-Sammanfattningsvis, AI-bias är varken ett litet område, eller något som går att nedprioritera. Om man skall vara framgångsrik med sinna AI-satsningar, utan att riskera att gå emot sin egen värdegrund och riskera sitt varumärke, krävs det att man lägger ner stor kraft, tid och energi på dessa frågor. 
+Sammanfattningsvis, AI-bias är varken ett litet område, eller något som går att nedprioritera. Om man skall vara framgångsrik med sina AI-satsningar, utan att riskera att gå emot sin egen värdegrund och riskera sitt varumärke, krävs det att man lägger ner stor kraft, tid och energi på dessa frågor. 
 
