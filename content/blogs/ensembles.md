@@ -12,7 +12,7 @@ Oxford etymologiska ordbok
 >ensemble (n.)
 >1703, "union of parts, parts of a thing taken together," from French ensemblée "all the parts of a thing considered together," from Late Latin insimul "at the same time," from in- intensive prefix + simul "at the same time," related to similis "like, resembling, of the same kind" (see similar). Musical sense of "union of all parts in a performance" in English first attested 1844. Of women's dress and accessories, from 1927. Earlier in English as an adverb (mid-15c.), "together, at the same time."
 
-Ensemblemodeller inom ML och AI är en teknik som kombinerar flera individuella modeller för att skapa en mer robust och prediktiv modell. Ensemblemetoder används ofta i situationer där en ensam modell inte kan ge tillräckligt hög prestanda, eller där en ensam modell är benägen att överanpassa eller underanpassa till data. I den här artikeln ska vi ge enkal handfasta exempel och liknelser på ensemblemodeller.
+Ensemblemodeller inom ML och AI är en teknik som kombinerar flera individuella modeller för att skapa en mer robust och prediktiv modell. Ensemblemetoder används ofta i situationer där en ensam modell inte kan ge tillräckligt hög prestanda, eller där en ensam modell är benägen att överanpassa eller underanpassa till data. I den här artikeln ska vi ge enkla handfasta exempel och liknelser på ensemblemodeller.
 
 Att jämföra ensemblemodeller med mänskliga sinnen kan ge en bättre förståelse för hur ensemblemetoder fungerar. Här är några exempel på liknelser mellan ensemblemodeller och mänskliga sinnen:
 

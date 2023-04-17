@@ -12,7 +12,7 @@ publishDate: 2023-03-15
 
 Data poisoning is a technique used by attackers to manipulate a machine learning model by intentionally injecting malicious or incorrect data into the training process or as feedback data. The goal of data poisoning is to cause the model to make incorrect predictions or classifications, leading to undesirable outcomes.
 
-In the context outlined above, the risk of data poisoning can occur if attackers intentionally feed incorrect or malicious data to the model during the training process or during its production, and must taken seriously. If the model is trained on unverified data or if feedback data from users is not properly monitored, this could lead to the model learning from incorrect or biased data, resulting in poor performance or incorrect predictions.
+In the context outlined above, the risk of data poisoning can occur if attackers intentionally feed incorrect or malicious data to the model during the training process or during its production, and must be taken seriously. If the model is trained on unverified data or if feedback data from users is not properly monitored, this could lead to the model learning from incorrect or biased data, resulting in poor performance or incorrect predictions.
 
 To prevent data poisoning, it is essential to ensure that the training dataset is clean and free of malicious or incorrect data. This can be done by verifying the data before it is used to train the model. Additionally, it is important to monitor feedback data from users and ensure that it is properly labeled and validated before it is used to retrain the model. An idea can be to give a percentage weight to its validity as a feature to the model if we cannot select binary.
 
@@ -22,7 +22,7 @@ Overall, preventing data poisoning requires a combination of careful data select
 
 ### We elaborate on some of the algorithms
 
-Here I present some examples of robust machine learning algorithms that can help detect and filter out malicious data:
+Here, I present some examples of robust machine learning algorithms that can help detect and filter out malicious data:
 
 * Robust Principal Component Analysis (RPCA): RPCA is a technique used to decompose a dataset into low-rank and sparse components. The low-rank component represents the underlying structure of the data, while the sparse component represents the noise or outliers in the data. By applying RPCA, it is possible to identify and filter out the malicious data points that do not conform to the underlying structure of the data.
 
@@ -34,7 +34,7 @@ Here I present some examples of robust machine learning algorithms that can help
 
 There are many other robust machine learning algorithms that can be used to detect and filter out malicious data, and the best approach will depend on the specific application and dataset.
 
-### Dato poisoning in chat bots
+### Data poisoning in chat bots
 
 The techniques I mentioned earlier are more commonly used for detecting and filtering out malicious data in general, including fraudulent activities such as money laundering. However, there are several techniques that can be specifically applied to chatbots to prevent wrong answers from being fed back into the system. Here are a few examples:
 

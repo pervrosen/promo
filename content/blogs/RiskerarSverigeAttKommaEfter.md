@@ -34,4 +34,4 @@ Exempel:
 * Säkra upp governance strukturer ur ett AI perspektiv, för processer som CAB, outsourcing direktiv, NPAP(New product approval process) med flera.
 * Hjälpa affärsenheter att hitta möjligheter med AI, samt att tydliggöra om det är en hjälpande AI eller en AI produkt mot kund. Dessa har olika krav på sig.
 
-Så om Sverige skall kunna behålla sin position, krävs att vi alla tar ett steg framåt och börjar välkommna denna teknik på allvar.
+Så om Sverige skall kunna behålla sin position, krävs att vi alla tar ett steg framåt och börjar välkomna denna teknik på allvar.
