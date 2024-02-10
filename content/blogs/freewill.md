@@ -56,5 +56,4 @@ Går utöver traditionell maskininlärning för att replikera djupet och bredden
 
 ### Slutsats
 
-Resan för att utveckla AI som speglar mänskligt medvetande och beslutsfattande i ett deterministiskt ramverk är komplex och mångfacetterad. Det kräver integration av en mångfald av modeller från neurovetenskap, psykologi, genetik och mer. Detta ambitiösa företag representerar en betydande utmaning men också en spännande möjlighet att främja vår förståelse för både mänsklig och maskinell kognition, och skjuta gränserna för vad AI kan uppnå.
-
+Om upptäckten att vår vilja är helt deterministisk bekräftas, kan detta accelerera AI-utvecklingen i riktning mot att skapa livsformer som liknar eller överträffar mänskliga förmågor. Denna insikt skulle inte bara underlätta imitationen av mänskliga kognitiva processer i AI-system, utan också möjliggöra utvecklingen av mer avancerade intelligenser som kan hantera och tolka världen på sätt som överstiger mänsklig förmåga.
