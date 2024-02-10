@@ -1,8 +1,8 @@
 ---
 title: "Finns fri vilja? Einstein sade nej, och här är vad det kan innebära för AI"
 date: 2024-02-08T20:31:53+01:00
-image: pic13.jpg
-draft: true
+image: freewill.jpeg
+draft: flase
 publishDate: 2024-02-10
 ---
 ## Finns fri vilja? Einstein sade nej, och här är vad det kan innebära för AI
